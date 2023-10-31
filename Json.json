@@ -28,6 +28,18 @@
            ],
            "url":"https://apps.apple.com/ge/app/bank-of-georgia/id1159368231"
         }
+       {
+         "artistName":"TBC",
+           "id":"id766598432",
+           "name":"TBC",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/3b/bd/fe3bbd96-c71a-1064-058a-50c5df2ab683/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/ge/app/tbc-bank/id766598432"
+       }
       ]
     }
  }
