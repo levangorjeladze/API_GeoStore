@@ -39,6 +39,18 @@
               
            ],
            "url":"https://apps.apple.com/ge/app/tbc-bank/id766598432"
+       },
+       {
+         "artistName":"MYAUTO.GE",
+           "id":"id766598432",
+           "name":"MYAUTO.GE",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/75/78/58757844-bf0c-bb48-3f19-af849bf4829d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/ge/app/myauto-ge/id1527978614"
        }
       ]
     }
