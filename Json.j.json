@@ -271,19 +271,8 @@
          "url":"https://apps.apple.com/us/app/wissol/id1634800977"
       },{
          "artistName":"UNICARD App",
-         "id":"id1634800977",
-         "name":"UNICARD App",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/36/f4/3e36f42e-9287-0f75-a905-8a4fbfe8973f/AppIcon-prod-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/wissol/id1634800977"
-      },{
-         "artistName":"Wissol",
          "id":"id1033843442",
-         "name":"Wissol",
+         "name":"UNICARD App",
          "releaseDate":"2020-04-10",
          "kind":"apps",
          "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/10/70/9c1070ba-215d-a939-3749-b6ffd350554e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
@@ -291,6 +280,17 @@
             
          ],
          "url":"https://apps.apple.com/us/app/unicard-app/id1033843442"
+      },{
+         "artistName":"SOCAR Geo",
+         "id":"id1460607524",
+         "name":"SOCAR Geo",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/a8/ef/f5a8ef59-d655-a444-b79b-cec4feea7133/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/socar-geo/id1460607524"
       }
       ]
    }
