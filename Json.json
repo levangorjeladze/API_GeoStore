@@ -51,6 +51,54 @@
               
            ],
            "url":"https://apps.apple.com/ge/app/myauto-ge/id1527978614"
+       },
+       {
+         "artistName":"NewsHub",
+           "id":"id6449821570",
+           "name":"NewsHub",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/59/92/1b59926e-b8f9-cafe-622c-8e8dcee362c7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/ge/app/newshub-ge/id6449821570"
+       },
+       {
+         "artistName":"Sweepy georgia",
+           "id":"id1545590076",
+           "name":"Sweepy georgia",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/47/54/a0/4754a04c-2dad-9fad-1784-7aff62479d4d/AppIcon-1x_U007emarketing-0-5-0-P3-85-220.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/ge/app/sweepy-georgia/id1545590076"
+       },
+       {
+         "artistName":"Washman Georgia",
+           "id":"id1624512692",
+           "name":"Washman Georgia",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/53/94/205394c3-8429-4641-bf4b-7abd708b38cf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/ge/app/washman-georgia/id1624512692"
+       },
+       {
+         "artistName":"E-Space Car Charging",
+           "id":"id1611008125",
+           "name":"E-Space Car Charging",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/19/61/e919615c-027a-80c7-302c-1fc010572e83/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/us/app/e-space-car-charging/id1443769841"
        }
       ]
     }
