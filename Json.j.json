@@ -1,1 +1,56 @@
-
+{
+  "feed":{
+     "title":"Top Georgian Apps",
+     "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
+     "author":{
+        "name":"Apple",
+        "url":"https://www.apple.com/"
+     },
+     "links":[
+        {
+           "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json"
+        }
+     ],
+     "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
+     "country":"ge",
+     "icon":"https://www.apple.com/favicon.ico",
+     "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
+     "results":[
+        {
+           "artistName":"TBC Business",
+           "id":"id1472982393",
+           "name":"TBC Business",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/5d/e4/165de40d-77a1-a203-c26f-ae82aeeba53e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/us/app/tbc-business/id1472982393"
+        },
+        {
+         "artistName":"Space - Digital Banking",
+         "id":"id1334713643",
+         "name":"Space - Digital Banking",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/28/4c/2e/284c2e1f-ae1c-b180-e6c1-ed0872a729ed/AppIcon-1x_U007emarketing-0-10-0-P3-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/space-digital-banking/id1334713643"
+      },{
+         "artistName":"TBC Pass",
+         "id":"id1271704491",
+         "name":"TBC Pass",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/e0/c4/d6e0c49c-55fb-e47d-bb63-eaad68ff7e50/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/tbc-pass/id1271704491"
+      }
+      ]
+   }
+}
