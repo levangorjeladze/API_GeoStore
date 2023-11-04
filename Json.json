@@ -50,8 +50,18 @@
               
            ],
            "url":"https://apps.apple.com/ge/app/tbc-bank/id766598432"
-       },
-       {
+       },{
+         "artistName":"Georgian Air Quality",
+           "id":"id1554751727",
+           "name":"Georgian Air Quality",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/a8/8d/a3a88dd8-fc72-5999-d4ce-a8d72843fb94/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/us/app/georgian-air-quality/id1554751727"
+       },{
          "artistName":"MYAUTO",
            "id":"id1527978614",
            "name":"MYAUTO",
@@ -199,6 +209,28 @@
               
            ],
            "url":"https://apps.apple.com/us/app/georgian-parliament/id1481271823"
+       },{
+         "artistName":"Teoria GE",
+           "id":"id1546570736",
+           "name":"Teoria GE",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/43/9a/4b/439a4bf5-d632-7c4b-160a-70c2371fb889/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/us/app/teoria-ge/id1546570736"
+       },{
+         "artistName":"Pravis Testebi",
+           "id":"id1605942284",
+           "name":"Pravis Testebi",
+           "releaseDate":"2020-04-10",
+           "kind":"apps",
+           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/1f/72/8c1f72d5-6886-2c15-f93b-c8a4df4f7b90/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+           "genres":[
+              
+           ],
+           "url":"https://apps.apple.com/us/app/pravis-testebi/id1605942284"
        }
       ]
     }
