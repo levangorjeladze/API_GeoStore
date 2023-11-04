@@ -390,6 +390,182 @@
             
          ],
          "url":"https://apps.apple.com/us/app/psp-app/id1638514214"
+      },{
+         "artistName":"MyMagti",
+         "id":"id1005596171",
+         "name":"MyMagti",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/f8/9e/1af89e87-bf52-3abd-7203-d395931b7c24/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/mymagti/id1005596171"
+      },{
+         "artistName":"Magti TV Play",
+         "id":"id1454610695",
+         "name":"Magti TV Play",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d2/d3/7c/d2d37c62-b439-ef65-51fc-640cfcfd3720/AppIconMagticom-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/magti-tv-play/id1454610695"
+      },{
+         "artistName":"Magti 4 Speed",
+         "id":"id1029449942",
+         "name":"Magti 4 Speed",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/af/b3/4f/afb34f31-46a9-b8c9-87d3-71044c5948a9/mzm.lxxkkscl.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/magti-4-speed/id1029449942"
+      },{
+         "artistName":"MYVIDEO Mobile TV",
+         "id":"id551311534",
+         "name":"MYVIDEO Mobile TV",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/80/28/71/80287199-3fa7-3e5d-fb55-f30a4392c87c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/myvideo-mobile-tv/id551311534"
+      },{
+         "artistName":"Maleo",
+         "id":"id1510240675",
+         "name":"Maleo",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/7a/11/357a11e7-52f2-16e9-f85d-9d45bd96c8b1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/maleo/id1510240675"
+      },{
+         "artistName":"Extra.ge",
+         "id":"id1531072354",
+         "name":"Extra.ge",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/f8/c8/27f8c868-d713-8fe2-4906-54d2bb618444/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/extra-ge/id1531072354"
+      },{
+         "artistName":"Service Agency",
+         "id":"id1574456853",
+         "name":"Service Agency",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/2c/65/cb2c6539-d1d5-61a0-bb9e-6ac8c5dda3e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/service-agency/id1574456853"
+      },{
+         "artistName":"MarTV Mobile",
+         "id":"id1524942873",
+         "name":"MarTV Mobile",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/2c/65/cb2c6539-d1d5-61a0-bb9e-6ac8c5dda3e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/martv-mobile/id1524942873"
+      },{
+         "artistName":"MarTV Remote",
+         "id":"id1546447901",
+         "name":"MarTV Remote",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/93/ae/3b/93ae3b5c-0835-29b7-44e9-c38483975cb8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/martv-remote/id1546447901"
+      },{
+         "artistName":"Tvoyo.TV Mobile",
+         "id":"id1180932790",
+         "name":"Tvoyo.TV Mobile",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/ab/e6/c7/abe6c764-347f-89cf-9683-1cb64a20b585/mzl.bpepwbjg.jpg/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/tvoyo-tv-mobile/id1180932790"
+      },{
+         "artistName":"TV Formula",
+         "id":"id1481472436",
+         "name":"TV Formula",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/04/17/24041737-abec-87e3-60a4-6107e8c801f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/tv-formula/id1481472436"
+      },{
+         "artistName":"1TV News",
+         "id":"id1474204038",
+         "name":"1TV News",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/5c/fc/125cfc44-85c1-4328-aac0-9576bbae3fea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/1tv-news/id1474204038"
+      },{
+         "artistName":"1TVPLAY",
+         "id":"id1525396286",
+         "name":"1TVPLAY",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/d8/f5/51d8f561-6d71-4423-bff9-585118acba24/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/1tvplay/id1525396286"
+      },{
+         "artistName":"1TV Radio",
+         "id":"id1464425240",
+         "name":"1TV Radio",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/db/66/83db663d-012b-7f9d-c388-c0ece4321582/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/1tv-radio/id1464425240"
+      },{
+         "artistName":"Wignebis Taro",
+         "id":"id1457363141",
+         "name":"Wignebis Taro",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/6c/78/ef6c781d-70c4-6d32-8e5a-e2586504ddc3/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/wignebis-taro/id1453504032"
+      },{
+         "artistName":"Gavedi",
+         "id":"id1319874505",
+         "name":"Gavedi",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/35/34/86/35348664-d619-f8fb-e1ac-064cd6277d11/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/gavedi/id1319874505"
       }
       ]
    }
