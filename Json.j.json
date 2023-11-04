@@ -1,14 +1,14 @@
 {
   "feed":{
      "title":"Top Georgian Apps",
-     "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
+     "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.j.json",
      "author":{
         "name":"Apple",
         "url":"https://www.apple.com/"
      },
      "links":[
         {
-           "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json"
+           "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.j.json"
         }
      ],
      "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
@@ -16,7 +16,19 @@
      "icon":"https://www.apple.com/favicon.ico",
      "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
      "results":[
-        {
+         {
+            "artistName":"BOG Pay",
+            "id":"id1271704491",
+            "name":"BOG Pay",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/23/ae/4e/23ae4eb2-ce1e-05ec-6783-631b500bb5f7/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/bog-pay/id1622205793"
+         },  
+         {
            "artistName":"TBC Business",
            "id":"id1472982393",
            "name":"TBC Business",
@@ -50,6 +62,127 @@
             
          ],
          "url":"https://apps.apple.com/us/app/tbc-pass/id1271704491"
+      },{
+         "artistName":"Tbilisi Energy",
+         "id":"id1556224427",
+         "name":"Tbilisi Energy",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/90/10/76/901076fc-02e4-59f0-15e1-b6544b4d856b/AppIcons-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/tbilisi-energy/id1556224427"
+      },{
+         "artistName":"MyCreditinfo",
+         "id":"id1335937376",
+         "name":"MyCreditinfo",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/2e/99/312e998f-e9ed-d252-3bed-fcd61b47173e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/mycreditinfo/id1335937376"
+      },{
+         "artistName":"My GPC",
+         "id":"id1587687905",
+         "name":"TBC Pass",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/b8/47/4db847b7-7fe5-df89-3743-3feed391bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/my-gpc/id1587687905"
+      },{
+         "artistName":"Gulf Club",
+         "id":"id981913665",
+         "name":"Gulf Club",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/bd/bd/2bbdbd64-385a-8222-ed43-ac926e2f2789/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/gulf-club/id981913665"
+      },{
+         "artistName":"TBC Pass",
+         "id":"id1271704491",
+         "name":"TBC Pass",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/e0/c4/d6e0c49c-55fb-e47d-bb63-eaad68ff7e50/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/tbc-pass/id1271704491"
+      },{
+         "artistName":"BasisBank Mobile",
+         "id":"id1065931334",
+         "name":"BasisBank Mobile",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/0a/15/b00a15e7-4960-8b4d-0ee2-3a49346751ff/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/basisbank-mobile/id1065931334"
+      },{
+         "artistName":"BOG sCoolApp",
+         "id":"id1620383920",
+         "name":"BOG sCoolApp",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/70/89/e2708964-743f-7440-0859-895dd65ff95b/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/bog-scoolapp/id1620383920"
+      },{
+         "artistName":"Bank of Georgia Business",
+         "id":"id1510921373",
+         "name":"Bank of Georgia Business",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/2c/07/622c0747-7a92-4f09-7188-c21ad0bce16b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/bank-of-georgia-business/id1510921373"
+      },{
+         "artistName":"G&T Trader",
+         "id":"id1054361481",
+         "name":"G&T Trader",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/97/a9/3e/97a93e1b-0b71-451e-d64c-76ffbca71d21/pr_source.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/g-t-trader/id1054361481"
+      },{
+         "artistName":"BOG mPOS",
+         "id":"id1125077219",
+         "name":"BOG mPOS",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/c6/ee/60/c6ee60b2-d165-373f-ddd6-087764d4be96/mzl.qpjxwpan.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/bog-mpos/id1125077219"
+      },{
+         "artistName":"Cashback 365",
+         "id":"id1470043867",
+         "name":"Cashback 365",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/36/eb/1236eb44-ec72-3ab8-52ee-ffa5646b1bf6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/cashback-365/id1470043867"
       }
       ]
    }
