@@ -1,21 +1,21 @@
 {
-  "feed":{
-     "title":"Top Georgian Apps",
-     "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.j.json",
-     "author":{
-        "name":"Apple",
-        "url":"https://www.apple.com/"
-     },
-     "links":[
-        {
-           "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.j.json"
-        }
-     ],
-     "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
-     "country":"ge",
-     "icon":"https://www.apple.com/favicon.ico",
-     "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
-     "results":[
+   "feed":{
+      "title":"Top Georgian Apps",
+      "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.j.json",
+      "author":{
+         "name":"Apple",
+         "url":"https://www.apple.com/"
+      },
+      "links":[
+         {
+            "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.j.json"
+         }
+      ],
+      "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
+      "country":"ge",
+      "icon":"https://www.apple.com/favicon.ico",
+      "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
+      "results":[
          {
             "artistName":"BOG Pay",
             "id":"id1271704491",
@@ -27,7 +27,8 @@
                
             ],
             "url":"https://apps.apple.com/us/app/bog-pay/id1622205793"
-         },{
+         },
+         {
             "artistName":"Re|Bank",
             "id":"id1531465907",
             "name":"Re|Bank",
@@ -38,7 +39,8 @@
                
             ],
             "url":"https://apps.apple.com/us/app/re-bank/id1531465907"
-         },{
+         },
+         {
             "artistName":"Space - Digital Banking",
             "id":"id1334713643",
             "name":"Space - Digital Banking",
@@ -46,527 +48,670 @@
             "kind":"apps",
             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/28/4c/2e/284c2e1f-ae1c-b180-e6c1-ed0872a729ed/AppIcon-1x_U007emarketing-0-10-0-P3-85-220.png/460x0w.webp",
             "genres":[
-
+               
             ],
-             "url":"https://apps.apple.com/us/app/space-digital-banking/id1334713643"
-      },{
-         "artistName":"Liberty Mobile",
-         "id":"id1455225055",
-         "name":"Liberty Mobile",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/0b/3e/370b3e9c-d7bb-0740-758e-b5f1c9298560/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/liberty-mobile/id1455225055"
-      },{
-         "artistName":"TBC Pass",
-         "id":"id1271704491",
-         "name":"TBC Pass",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/e0/c4/d6e0c49c-55fb-e47d-bb63-eaad68ff7e50/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/tbc-pass/id1271704491"
-      },{
-         "artistName":"Tbilisi Energy",
-         "id":"id1556224427",
-         "name":"Tbilisi Energy",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/90/10/76/901076fc-02e4-59f0-15e1-b6544b4d856b/AppIcons-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/tbilisi-energy/id1556224427"
-      },{
-         "artistName":"MyCreditinfo",
-         "id":"id1335937376",
-         "name":"MyCreditinfo",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/2e/99/312e998f-e9ed-d252-3bed-fcd61b47173e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/mycreditinfo/id1335937376"
-      },{
-         "artistName":"My GPC",
-         "id":"id1587687905",
-         "name":"TBC Pass",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/b8/47/4db847b7-7fe5-df89-3743-3feed391bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/my-gpc/id1587687905"
-      },{
-         "artistName":"Gulf Club",
-         "id":"id981913665",
-         "name":"Gulf Club",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/bd/bd/2bbdbd64-385a-8222-ed43-ac926e2f2789/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/gulf-club/id981913665"
-      },{
-         "artistName":"TBC Pass",
-         "id":"id1271704491",
-         "name":"TBC Pass",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/e0/c4/d6e0c49c-55fb-e47d-bb63-eaad68ff7e50/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/tbc-pass/id1271704491"
-      },{
-         "artistName":"BasisBank Mobile",
-         "id":"id1065931334",
-         "name":"BasisBank Mobile",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/0a/15/b00a15e7-4960-8b4d-0ee2-3a49346751ff/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/basisbank-mobile/id1065931334"
-      },{
-         "artistName":"BOG sCoolApp",
-         "id":"id1620383920",
-         "name":"BOG sCoolApp",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/70/89/e2708964-743f-7440-0859-895dd65ff95b/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/bog-scoolapp/id1620383920"
-      },{
-         "artistName":"Bank of Georgia Business",
-         "id":"id1510921373",
-         "name":"Bank of Georgia Business",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/2c/07/622c0747-7a92-4f09-7188-c21ad0bce16b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/bank-of-georgia-business/id1510921373"
-      },{
-         "artistName":"G&T Trader",
-         "id":"id1054361481",
-         "name":"G&T Trader",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/97/a9/3e/97a93e1b-0b71-451e-d64c-76ffbca71d21/pr_source.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/g-t-trader/id1054361481"
-      },{
-         "artistName":"BOG mPOS",
-         "id":"id1125077219",
-         "name":"BOG mPOS",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/c6/ee/60/c6ee60b2-d165-373f-ddd6-087764d4be96/mzl.qpjxwpan.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/bog-mpos/id1125077219"
-      },{
-         "artistName":"Cashback 365",
-         "id":"id1470043867",
-         "name":"Cashback 365",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/0b/3e/370b3e9c-d7bb-0740-758e-b5f1c9298560/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/cashback-365/id1470043867"
-      },{
-         "artistName":"MyCredo - Mobile Banking",
-         "id":"id1535238816",
-         "name":"MyCredo - Mobile Banking",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/d5/42/dad542a7-9e82-a570-ef0e-238a625b1b11/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/mycredo-mobile-banking/id1535238816"
-      },{
-         "artistName":"08.GE",
-         "id":"id1564763253",
-         "name":"08.GE",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/68/e5/f4/68e5f440-f96b-0537-9f3a-0e91ff71cac4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/08-ge/id1564763253"
-      },{
-         "artistName":"ARDI Insurance App",
-         "id":"id1516602975",
-         "name":"ARDI Insurance App",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/7f/0f/1c7f0f74-2dd8-9a24-2452-8136ac2ee600/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/ardi-insurance-app/id1516602975"
-      },{
-         "artistName":"PASHA Bank Georgia",
-         "id":"id1434859543",
-         "name":"PASHA Bank Georgia",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/2c/30/202c3091-2f15-bb0d-61ed-05eddc16c284/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/pasha-bank-georgia/id1434859543"
-      },{
-         "artistName":"Terabank Mobile Banking",
-         "id":"id1031542190",
-         "name":"Terabank Mobile Banking",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/36/eb/1236eb44-ec72-3ab8-52ee-ffa5646b1bf6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/terabank-mobile-banking/id1031542190"
-      },{
-         "artistName":"Terabank mBusiness",
-         "id":"id1471495071",
-         "name":"Terabank mBusiness",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/41/f7/eb41f7a9-d8b3-68fa-4535-535a18dece52/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/terabank-mbusiness/id1471495071"
-      },{
-         "artistName":"Wissol",
-         "id":"id1634800977",
-         "name":"Wissol",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/36/f4/3e36f42e-9287-0f75-a905-8a4fbfe8973f/AppIcon-prod-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/wissol/id1634800977"
-      },{
-         "artistName":"UNICARD App",
-         "id":"id1033843442",
-         "name":"UNICARD App",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/10/70/9c1070ba-215d-a939-3749-b6ffd350554e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/unicard-app/id1033843442"
-      },{
-         "artistName":"SOCAR Geo",
-         "id":"id1460607524",
-         "name":"SOCAR Geo",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/a8/ef/f5a8ef59-d655-a444-b79b-cec4feea7133/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/socar-geo/id1460607524"
-      },{
-         "artistName":"Lunchoba",
-         "id":"id1457363141",
-         "name":"Lunchoba",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/4d/cb/8b4dcbc6-898a-1e09-80d6-d2c4d6accb01/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/lunchoba/id1457363141"
-      },{
-         "artistName":"Sushi24.ge",
-         "id":"id1558995386",
-         "name":"Sushi24.ge",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/a1/77/37a177a8-8749-c070-8c38-df06e6b0a759/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/sushi24-ge/id1558995386"
-      },{
-         "artistName":"Liberali Media",
-         "id":"id1194039316",
-         "name":"Liberali Media",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/90/45/d5/9045d5f3-ccda-1d2c-5171-e756bd105d1a/AppIcon-1x_U007emarketing-85-220-0-9.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/liberali-media/id1194039316"
-      },{
-         "artistName":"Rustavi Transport",
-         "id":"id1556245633",
-         "name":"Rustavi Transport",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/13/63/ce1363e4-4995-02c1-68cf-683cf0e1d87e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/rustavi-transport/id1556245633"
-      },{
-         "artistName":"BC Dictionary",
-         "id":"id1454154548",
-         "name":"BC Dictionary",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6a/4a/db/6a4adb2b-e021-210a-ab62-1bccba445da0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/bc-dictionary/id1454154548"
-      },{
-         "artistName":"SPAR Georgia",
-         "id":"id1489040533",
-         "name":"SPAR Georgia",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/2b/54/7b2b5421-66d0-e685-0248-f7d9f6acb27c/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/spar-georgia/id1489040533"
-      },{
-         "artistName":"Pharmadepot Pharmacy",
-         "id":"id1629886530",
-         "name":"Pharmadepot Pharmacy",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/83/75/8f8375a7-e48e-21be-ccbb-7a75ba421e1c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/pharmadepot-pharmacy/id1629886530"
-      },{
-         "artistName":"My GPC",
-         "id":"id1634800977",
-         "name":"My GPC",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/b8/47/4db847b7-7fe5-df89-3743-3feed391bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/my-gpc/id1587687905"
-      },{
-         "artistName":"PSP APP",
-         "id":"id1638514214",
-         "name":"PSP APP",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/80/45/d380453b-5afc-d62e-b0df-746d2e9fca89/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/psp-app/id1638514214"
-      },{
-         "artistName":"MyMagti",
-         "id":"id1005596171",
-         "name":"MyMagti",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/f8/9e/1af89e87-bf52-3abd-7203-d395931b7c24/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/mymagti/id1005596171"
-      },{
-         "artistName":"Magti TV Play",
-         "id":"id1454610695",
-         "name":"Magti TV Play",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d2/d3/7c/d2d37c62-b439-ef65-51fc-640cfcfd3720/AppIconMagticom-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/magti-tv-play/id1454610695"
-      },{
-         "artistName":"Magti 4 Speed",
-         "id":"id1029449942",
-         "name":"Magti 4 Speed",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/af/b3/4f/afb34f31-46a9-b8c9-87d3-71044c5948a9/mzm.lxxkkscl.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/magti-4-speed/id1029449942"
-      },{
-         "artistName":"MYVIDEO Mobile TV",
-         "id":"id551311534",
-         "name":"MYVIDEO Mobile TV",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/80/28/71/80287199-3fa7-3e5d-fb55-f30a4392c87c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/myvideo-mobile-tv/id551311534"
-      },{
-         "artistName":"Maleo",
-         "id":"id1510240675",
-         "name":"Maleo",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/7a/11/357a11e7-52f2-16e9-f85d-9d45bd96c8b1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/maleo/id1510240675"
-      },{
-         "artistName":"Extra.ge",
-         "id":"id1531072354",
-         "name":"Extra.ge",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/f8/c8/27f8c868-d713-8fe2-4906-54d2bb618444/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/extra-ge/id1531072354"
-      },{
-         "artistName":"Service Agency",
-         "id":"id1574456853",
-         "name":"Service Agency",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/2c/65/cb2c6539-d1d5-61a0-bb9e-6ac8c5dda3e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/service-agency/id1574456853"
-      },{
-         "artistName":"MarTV Mobile",
-         "id":"id1524942873",
-         "name":"MarTV Mobile",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/2c/65/cb2c6539-d1d5-61a0-bb9e-6ac8c5dda3e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/martv-mobile/id1524942873"
-      },{
-         "artistName":"MarTV Remote",
-         "id":"id1546447901",
-         "name":"MarTV Remote",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/93/ae/3b/93ae3b5c-0835-29b7-44e9-c38483975cb8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/martv-remote/id1546447901"
-      },{
-         "artistName":"Tvoyo.TV Mobile",
-         "id":"id1180932790",
-         "name":"Tvoyo.TV Mobile",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/ab/e6/c7/abe6c764-347f-89cf-9683-1cb64a20b585/mzl.bpepwbjg.jpg/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/tvoyo-tv-mobile/id1180932790"
-      },{
-         "artistName":"TV Formula",
-         "id":"id1481472436",
-         "name":"TV Formula",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/04/17/24041737-abec-87e3-60a4-6107e8c801f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/tv-formula/id1481472436"
-      },{
-         "artistName":"1TV News",
-         "id":"id1474204038",
-         "name":"1TV News",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/5c/fc/125cfc44-85c1-4328-aac0-9576bbae3fea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/1tv-news/id1474204038"
-      },{
-         "artistName":"1TVPLAY",
-         "id":"id1525396286",
-         "name":"1TVPLAY",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/d8/f5/51d8f561-6d71-4423-bff9-585118acba24/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/1tvplay/id1525396286"
-      },{
-         "artistName":"1TV Radio",
-         "id":"id1464425240",
-         "name":"1TV Radio",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/db/66/83db663d-012b-7f9d-c388-c0ece4321582/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/1tv-radio/id1464425240"
-      },{
-         "artistName":"Wignebis Taro",
-         "id":"id1457363141",
-         "name":"Wignebis Taro",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/6c/78/ef6c781d-70c4-6d32-8e5a-e2586504ddc3/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/wignebis-taro/id1453504032"
-      },{
-         "artistName":"Gavedi",
-         "id":"id1319874505",
-         "name":"Gavedi",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/35/34/86/35348664-d619-f8fb-e1ac-064cd6277d11/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/gavedi/id1319874505"
-      }
+            "url":"https://apps.apple.com/us/app/space-digital-banking/id1334713643"
+         },
+         {
+            "artistName":"Liberty Mobile",
+            "id":"id1455225055",
+            "name":"Liberty Mobile",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/0b/3e/370b3e9c-d7bb-0740-758e-b5f1c9298560/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/liberty-mobile/id1455225055"
+         },
+         {
+            "artistName":"TBC Pass",
+            "id":"id1271704491",
+            "name":"TBC Pass",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/e0/c4/d6e0c49c-55fb-e47d-bb63-eaad68ff7e50/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tbc-pass/id1271704491"
+         },
+         {
+            "artistName":"Tbilisi Energy",
+            "id":"id1556224427",
+            "name":"Tbilisi Energy",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/90/10/76/901076fc-02e4-59f0-15e1-b6544b4d856b/AppIcons-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tbilisi-energy/id1556224427"
+         },
+         {
+            "artistName":"MyCreditinfo",
+            "id":"id1335937376",
+            "name":"MyCreditinfo",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/2e/99/312e998f-e9ed-d252-3bed-fcd61b47173e/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/mycreditinfo/id1335937376"
+         },
+         {
+            "artistName":"My GPC",
+            "id":"id1587687905",
+            "name":"TBC Pass",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/b8/47/4db847b7-7fe5-df89-3743-3feed391bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/my-gpc/id1587687905"
+         },
+         {
+            "artistName":"Gulf Club",
+            "id":"id981913665",
+            "name":"Gulf Club",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/bd/bd/2bbdbd64-385a-8222-ed43-ac926e2f2789/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/gulf-club/id981913665"
+         },
+         {
+            "artistName":"TBC Pass",
+            "id":"id1271704491",
+            "name":"TBC Pass",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d6/e0/c4/d6e0c49c-55fb-e47d-bb63-eaad68ff7e50/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tbc-pass/id1271704491"
+         },
+         {
+            "artistName":"BasisBank Mobile",
+            "id":"id1065931334",
+            "name":"BasisBank Mobile",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/0a/15/b00a15e7-4960-8b4d-0ee2-3a49346751ff/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/basisbank-mobile/id1065931334"
+         },
+         {
+            "artistName":"BOG sCoolApp",
+            "id":"id1620383920",
+            "name":"BOG sCoolApp",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/70/89/e2708964-743f-7440-0859-895dd65ff95b/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/bog-scoolapp/id1620383920"
+         },
+         {
+            "artistName":"Bank of Georgia Business",
+            "id":"id1510921373",
+            "name":"Bank of Georgia Business",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/2c/07/622c0747-7a92-4f09-7188-c21ad0bce16b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/bank-of-georgia-business/id1510921373"
+         },
+         {
+            "artistName":"G&T Trader",
+            "id":"id1054361481",
+            "name":"G&T Trader",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/97/a9/3e/97a93e1b-0b71-451e-d64c-76ffbca71d21/pr_source.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/g-t-trader/id1054361481"
+         },
+         {
+            "artistName":"BOG mPOS",
+            "id":"id1125077219",
+            "name":"BOG mPOS",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/c6/ee/60/c6ee60b2-d165-373f-ddd6-087764d4be96/mzl.qpjxwpan.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/bog-mpos/id1125077219"
+         },
+         {
+            "artistName":"Cashback 365",
+            "id":"id1470043867",
+            "name":"Cashback 365",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/37/0b/3e/370b3e9c-d7bb-0740-758e-b5f1c9298560/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/cashback-365/id1470043867"
+         },
+         {
+            "artistName":"MyCredo - Mobile Banking",
+            "id":"id1535238816",
+            "name":"MyCredo - Mobile Banking",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/da/d5/42/dad542a7-9e82-a570-ef0e-238a625b1b11/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/mycredo-mobile-banking/id1535238816"
+         },
+         {
+            "artistName":"08.GE",
+            "id":"id1564763253",
+            "name":"08.GE",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/68/e5/f4/68e5f440-f96b-0537-9f3a-0e91ff71cac4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/08-ge/id1564763253"
+         },
+         {
+            "artistName":"ARDI Insurance App",
+            "id":"id1516602975",
+            "name":"ARDI Insurance App",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1c/7f/0f/1c7f0f74-2dd8-9a24-2452-8136ac2ee600/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/ardi-insurance-app/id1516602975"
+         },
+         {
+            "artistName":"PASHA Bank Georgia",
+            "id":"id1434859543",
+            "name":"PASHA Bank Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/2c/30/202c3091-2f15-bb0d-61ed-05eddc16c284/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/pasha-bank-georgia/id1434859543"
+         },
+         {
+            "artistName":"Terabank Mobile Banking",
+            "id":"id1031542190",
+            "name":"Terabank Mobile Banking",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/36/eb/1236eb44-ec72-3ab8-52ee-ffa5646b1bf6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/terabank-mobile-banking/id1031542190"
+         },
+         {
+            "artistName":"Terabank mBusiness",
+            "id":"id1471495071",
+            "name":"Terabank mBusiness",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/41/f7/eb41f7a9-d8b3-68fa-4535-535a18dece52/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/terabank-mbusiness/id1471495071"
+         },
+         {
+            "artistName":"Wissol",
+            "id":"id1634800977",
+            "name":"Wissol",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/36/f4/3e36f42e-9287-0f75-a905-8a4fbfe8973f/AppIcon-prod-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/wissol/id1634800977"
+         },
+         {
+            "artistName":"UNICARD App",
+            "id":"id1033843442",
+            "name":"UNICARD App",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/10/70/9c1070ba-215d-a939-3749-b6ffd350554e/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/unicard-app/id1033843442"
+         },
+         {
+            "artistName":"SOCAR Geo",
+            "id":"id1460607524",
+            "name":"SOCAR Geo",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/a8/ef/f5a8ef59-d655-a444-b79b-cec4feea7133/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/socar-geo/id1460607524"
+         },
+         {
+            "artistName":"Lunchoba",
+            "id":"id1457363141",
+            "name":"Lunchoba",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/4d/cb/8b4dcbc6-898a-1e09-80d6-d2c4d6accb01/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/lunchoba/id1457363141"
+         },
+         {
+            "artistName":"Sushi24.ge",
+            "id":"id1558995386",
+            "name":"Sushi24.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/a1/77/37a177a8-8749-c070-8c38-df06e6b0a759/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/sushi24-ge/id1558995386"
+         },
+         {
+            "artistName":"Liberali Media",
+            "id":"id1194039316",
+            "name":"Liberali Media",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/90/45/d5/9045d5f3-ccda-1d2c-5171-e756bd105d1a/AppIcon-1x_U007emarketing-85-220-0-9.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/liberali-media/id1194039316"
+         },
+         {
+            "artistName":"Rustavi Transport",
+            "id":"id1556245633",
+            "name":"Rustavi Transport",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/13/63/ce1363e4-4995-02c1-68cf-683cf0e1d87e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/rustavi-transport/id1556245633"
+         },
+         {
+            "artistName":"BC Dictionary",
+            "id":"id1454154548",
+            "name":"BC Dictionary",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6a/4a/db/6a4adb2b-e021-210a-ab62-1bccba445da0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/bc-dictionary/id1454154548"
+         },
+         {
+            "artistName":"SPAR Georgia",
+            "id":"id1489040533",
+            "name":"SPAR Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7b/2b/54/7b2b5421-66d0-e685-0248-f7d9f6acb27c/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/spar-georgia/id1489040533"
+         },
+         {
+            "artistName":"Pharmadepot Pharmacy",
+            "id":"id1629886530",
+            "name":"Pharmadepot Pharmacy",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/83/75/8f8375a7-e48e-21be-ccbb-7a75ba421e1c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/pharmadepot-pharmacy/id1629886530"
+         },
+         {
+            "artistName":"My GPC",
+            "id":"id1634800977",
+            "name":"My GPC",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4d/b8/47/4db847b7-7fe5-df89-3743-3feed391bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/my-gpc/id1587687905"
+         },
+         {
+            "artistName":"PSP APP",
+            "id":"id1638514214",
+            "name":"PSP APP",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d3/80/45/d380453b-5afc-d62e-b0df-746d2e9fca89/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/psp-app/id1638514214"
+         },
+         {
+            "artistName":"MyMagti",
+            "id":"id1005596171",
+            "name":"MyMagti",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/f8/9e/1af89e87-bf52-3abd-7203-d395931b7c24/AppIcon-0-0-1x_U007epad-0-0-0-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/mymagti/id1005596171"
+         },
+         {
+            "artistName":"Magti TV Play",
+            "id":"id1454610695",
+            "name":"Magti TV Play",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d2/d3/7c/d2d37c62-b439-ef65-51fc-640cfcfd3720/AppIconMagticom-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/magti-tv-play/id1454610695"
+         },
+         {
+            "artistName":"Magti 4 Speed",
+            "id":"id1029449942",
+            "name":"Magti 4 Speed",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/af/b3/4f/afb34f31-46a9-b8c9-87d3-71044c5948a9/mzm.lxxkkscl.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/magti-4-speed/id1029449942"
+         },
+         {
+            "artistName":"MYVIDEO Mobile TV",
+            "id":"id551311534",
+            "name":"MYVIDEO Mobile TV",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/80/28/71/80287199-3fa7-3e5d-fb55-f30a4392c87c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/myvideo-mobile-tv/id551311534"
+         },
+         {
+            "artistName":"Maleo",
+            "id":"id1510240675",
+            "name":"Maleo",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/7a/11/357a11e7-52f2-16e9-f85d-9d45bd96c8b1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/maleo/id1510240675"
+         },
+         {
+            "artistName":"Extra.ge",
+            "id":"id1531072354",
+            "name":"Extra.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/f8/c8/27f8c868-d713-8fe2-4906-54d2bb618444/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/extra-ge/id1531072354"
+         },
+         {
+            "artistName":"Service Agency",
+            "id":"id1574456853",
+            "name":"Service Agency",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/2c/65/cb2c6539-d1d5-61a0-bb9e-6ac8c5dda3e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/service-agency/id1574456853"
+         },
+         {
+            "artistName":"MarTV Mobile",
+            "id":"id1524942873",
+            "name":"MarTV Mobile",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/2c/65/cb2c6539-d1d5-61a0-bb9e-6ac8c5dda3e7/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/martv-mobile/id1524942873"
+         },
+         {
+            "artistName":"MarTV Remote",
+            "id":"id1546447901",
+            "name":"MarTV Remote",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/93/ae/3b/93ae3b5c-0835-29b7-44e9-c38483975cb8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/martv-remote/id1546447901"
+         },
+         {
+            "artistName":"Tvoyo.TV Mobile",
+            "id":"id1180932790",
+            "name":"Tvoyo.TV Mobile",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/ab/e6/c7/abe6c764-347f-89cf-9683-1cb64a20b585/mzl.bpepwbjg.jpg/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tvoyo-tv-mobile/id1180932790"
+         },
+         {
+            "artistName":"TV Formula",
+            "id":"id1481472436",
+            "name":"TV Formula",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/24/04/17/24041737-abec-87e3-60a4-6107e8c801f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tv-formula/id1481472436"
+         },
+         {
+            "artistName":"1TV News",
+            "id":"id1474204038",
+            "name":"1TV News",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/12/5c/fc/125cfc44-85c1-4328-aac0-9576bbae3fea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/1tv-news/id1474204038"
+         },
+         {
+            "artistName":"1TVPLAY",
+            "id":"id1525396286",
+            "name":"1TVPLAY",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/d8/f5/51d8f561-6d71-4423-bff9-585118acba24/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/1tvplay/id1525396286"
+         },
+         {
+            "artistName":"1TV Radio",
+            "id":"id1464425240",
+            "name":"1TV Radio",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/83/db/66/83db663d-012b-7f9d-c388-c0ece4321582/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/1tv-radio/id1464425240"
+         },
+         {
+            "artistName":"Wignebis Taro",
+            "id":"id1457363141",
+            "name":"Wignebis Taro",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/6c/78/ef6c781d-70c4-6d32-8e5a-e2586504ddc3/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/wignebis-taro/id1453504032"
+         },
+         {
+            "artistName":"Gavedi",
+            "id":"id1319874505",
+            "name":"Gavedi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/35/34/86/35348664-d619-f8fb-e1ac-064cd6277d11/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/gavedi/id1319874505"
+         },
+         {
+            "artistName":"Horoscope Georgian",
+            "id":"id1351215674",
+            "name":"Horoscope Georgian",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ed/92/f1/ed92f1b7-26fb-b048-081c-0c5a9a6825d6/AppIcons-1x_U007emarketing-85-220-6.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/horoscope-georgian/id1351215674"
+         },
+         {
+            "artistName":"New Light Forum",
+            "id":"id1626996999",
+            "name":"New Light Forum",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/41/0b/f1410bc9-d75d-49b2-9ab5-0dd915fa455d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/new-light-forum/id1626996999"
+         },
+         {
+            "artistName":"Sando",
+            "id":"id1593181714",
+            "name":"Sando",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/e2/38/ede23857-2b05-9163-c36d-6ec51dc5f468/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/sando/id1593181714"
+         },
+         {
+            "artistName":"Georgian Wine Finder",
+            "id":"id1439021125",
+            "name":"Georgian Wine Finder",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/44/61/6d4461bd-4f65-b3be-683d-1741d3859992/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/georgian-wine-finder/id1439021125"
+         },
+         {
+            "artistName":"Tbilisi Travel Guide",
+            "id":"id1092208784",
+            "name":"Tbilisi Travel Guide",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/8b/12/628b123b-1e95-a373-f9d4-21486d20bfd0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tbilisi-travel-guide/id1092208784"
+         },
+         {
+            "artistName":"Georgia Travel Guide",
+            "id":"id1092207442",
+            "name":"Georgia Travel Guide",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/7f/e2/c47fe226-2219-8d99-0740-9893abc6a584/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/georgia-travel-guide/id1092207442"
+         },
+         {
+            "artistName":"Guide-U: Georgian Travel App",
+            "id":"id1168636129",
+            "name":"Guide-U: Georgian Travel App",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/95/f6/bf/95f6bf75-059e-f783-95f0-a1103bb7d1c8/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/guide-u-georgian-travel-app/id1168636129"
+         },
+         {
+            "artistName":"GE: National Geographic Magazine",
+            "id":"id743622720",
+            "name":"GE: National Geographic Magazine",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple2/v4/a3/0d/6c/a30d6c15-da7b-7514-9312-92fa05580408/mzl.qamqolpt.jpg/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/ge-national-geographic-magazine/id743622720"
+         }
       ]
    }
 }
