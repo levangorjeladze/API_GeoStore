@@ -1,336 +1,729 @@
 {
-  "feed":{
-     "title":"Top Free Apps",
-     "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
-     "author":{
-        "name":"Apple",
-        "url":"https://www.apple.com/"
-     },
-     "links":[
-        {
-           "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json"
-        }
-     ],
-     "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
-     "country":"ge",
-     "icon":"https://www.apple.com/favicon.ico",
-     "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
-     "results":[
-        {
-           "artistName":"Bank of Georgia",
-           "id":"1159368231",
-           "name":"Bank of Georgia",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/53/3a/00/533a00a7-c33d-f62a-10c4-939334881206/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/ge/app/bank-of-georgia/id1159368231"
-        },{
-         "artistName":"Fix Tbilisi",
-           "id":"id6447481412",
-           "name":"Fix Tbilisi",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/6a/0a/176a0abc-84b0-3f04-5fc7-f5d6b1ef5b4e/AppIcon-0-0-1x_U007ephone-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/fix-tbilisi/id6447481412"
-       },
-       {
-         "artistName":"TBC",
-           "id":"id766598432",
-           "name":"TBC",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/3b/bd/fe3bbd96-c71a-1064-058a-50c5df2ab683/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/ge/app/tbc-bank/id766598432"
-       },{
-         "artistName":"Georgian Air Quality",
-           "id":"id1554751727",
-           "name":"Georgian Air Quality",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/a8/8d/a3a88dd8-fc72-5999-d4ce-a8d72843fb94/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/georgian-air-quality/id1554751727"
-       },{
-         "artistName":"MYAUTO",
-           "id":"id1527978614",
-           "name":"MYAUTO",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/75/78/58757844-bf0c-bb48-3f19-af849bf4829d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/ge/app/myauto-ge/id1527978614"
-       },
-       {
-         "artistName":"NewsHub",
-           "id":"id6449821570",
-           "name":"NewsHub",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/59/92/1b59926e-b8f9-cafe-622c-8e8dcee362c7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/ge/app/newshub-ge/id6449821570"
-       },
-       {
-         "artistName":"Sweepy georgia",
-           "id":"id1545590076",
-           "name":"Sweepy georgia",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/47/54/a0/4754a04c-2dad-9fad-1784-7aff62479d4d/AppIcon-1x_U007emarketing-0-5-0-P3-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/ge/app/sweepy-georgia/id1545590076"
-       },
-       {
-         "artistName":"Washman Georgia",
-           "id":"id1624512692",
-           "name":"Washman Georgia",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/53/94/205394c3-8429-4641-bf4b-7abd708b38cf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/ge/app/washman-georgia/id1624512692"
-       },
-       {
-         "artistName":"E-Space Car Charging",
-           "id":"id1611008125",
-           "name":"E-Space Car Charging",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/19/61/e919615c-027a-80c7-302c-1fc010572e83/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/e-space-car-charging/id1443769841"
-       },
-       {
-         "artistName":"Neogas",
-           "id":"id1400420097",
-           "name":"Neogas",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/11/3d/d4113df6-f2d0-9745-5233-2d1dc9dd8eee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/neogas/id1400420097"
-       },{
-         "artistName":"Georgian Keyboard ™",
-           "id":"id900035450",
-           "name":"Georgian Keyboard ™",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/2b/2f/372b2f65-b2cf-cad0-382c-99a09e0e34bc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/georgian-keyboard/id900035450"
-       },{
-         "artistName":"112 Georgia",
-           "id":"id1155386092",
-           "name":"112 Georgia",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/cf/53/ebcf5311-ab08-3906-0026-427d29265504/appicon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/112-georgia/id1155386092"
-       },{
-         "artistName":"Teoria.On.ge",
-           "id":"id1532078416",
-           "name":"Teoria.On.ge",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9f/99/5f/9f995f65-820c-d1dc-d662-c3ebe6dde806/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/teoria-on-ge/id1532078416"
-       },{
-         "artistName":"Scan Product",
-           "id":"id1609928825",
-           "name":"Scan Product",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/fe/1d/c4fe1ddd-a3bf-d89d-01db-3e4d02a8726f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/scan-product/id1609928825"
-       },{
-         "artistName":"Service Agency",
-           "id":"id1574456853",
-           "name":"Service Agency",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/53/f3/1753f3ba-53ab-bd29-9bea-1c21f4982b0c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/service-agency/id1574456853"
-       },{
-         "artistName":"Parking Tbilisi",
-           "id":"id1472868535",
-           "name":"Parking Tbilisi",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/4f/25/104f25a1-effa-c8f6-2e0a-1d7904c5ae97/AppIcon-0-0-1x_U007emarketing-0-2-0-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/parking-tbilisi/id1472868535"
-       },{
-         "artistName":"Georgian Parliament",
-           "id":"id1481271823",
-           "name":"E-Space Car Charging",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/1a/3a/2f1a3aab-0554-acb7-6190-12f79f5ec77d/AppIcon-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/georgian-parliament/id1481271823"
-       },{
-         "artistName":"Teoria GE",
-           "id":"id1546570736",
-           "name":"Teoria GE",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/43/9a/4b/439a4bf5-d632-7c4b-160a-70c2371fb889/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/teoria-ge/id1546570736"
-       },{
-         "artistName":"Pravis Testebi",
-           "id":"id1605942284",
-           "name":"Pravis Testebi",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/1f/72/8c1f72d5-6886-2c15-f93b-c8a4df4f7b90/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/pravis-testebi/id1605942284"
-       },{
-         "artistName":"Audio Guide Georgia: offline",
-           "id":"id1208569327",
-           "name":"Audio Guide Georgia: offline",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a3/2e/c9/a32ec948-0c20-23e6-6803-54a48fd467bc/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/audio-guide-georgia-offline/id1208569327"
-       },{
-         "artistName":"Guide-U: Georgian Travel App",
-           "id":"id1168636129",
-           "name":"Guide-U: Georgian Travel App",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/95/f6/bf/95f6bf75-059e-f783-95f0-a1103bb7d1c8/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/guide-u-georgian-travel-app/id1168636129"
-       },{
-         "artistName":"Sait: Georgian travel app",
-           "id":"id1641524036",
-           "name":"Sait: Georgian travel app",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/22/a2/da/22a2da2c-0895-e7f8-f940-67801d940eb2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/sait-georgian-travel-app/id1641524036"
-       },{
-         "artistName":"iPlus Georgia",
-           "id":"id1579771123",
-           "name":"iPlus Georgia",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/78/b0/3d78b051-d35a-827b-c69d-01e20ea72af6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/iplus-georgia/id1579771123"
-       },{
-         "artistName":"SABA Reader: Books, Audio",
-           "id":"id596814126",
-           "name":"SABA Reader: Books, Audio",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/5e/b3/e15eb360-87ab-4c74-9967-708fc1140064/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/saba-reader-books-audio/id596814126"
-       },{
-         "artistName":"USA2GEORGIA",
-           "id":"id1461461537",
-           "name":"USA2GEORGIA",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/55/a7/8d55a799-b7f4-1708-8bf1-ddea6622b81d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/usa2georgia/id1461461537"
-       },{
-         "artistName":"Locker.ge",
-           "id":"id1441247700",
-           "name":"Locker.ge",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/81/63/c3/8163c325-02d4-cc04-b2db-bfbbc0299d91/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/locker-ge/id1441247700"
-       },{
-         "artistName":"TBC Insurance",
-           "id":"id1484466064",
-           "name":"TBC Insurance",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/e1/11/42e11159-ca8f-da37-1e3f-6df5be25d16a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/tbc-insurance/id1484466064"
-       },{
-         "artistName":"Archi.ge",
-           "id":"id1506595848",
-           "name":"Archi.ge",
-           "releaseDate":"2020-04-10",
-           "kind":"apps",
-           "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/ba/d4/80bad4b4-6312-43d4-289b-cd7df84989e5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
-           "genres":[
-              
-           ],
-           "url":"https://apps.apple.com/us/app/archi-ge/id1506595848"
-       }
+   "feed":{
+      "title":"Top Free Apps",
+      "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
+      "author":{
+         "name":"Apple",
+         "url":"https://www.apple.com/"
+      },
+      "links":[
+         {
+            "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json"
+         }
+      ],
+      "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
+      "country":"ge",
+      "icon":"https://www.apple.com/favicon.ico",
+      "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
+      "results":[
+         {
+            "artistName":"Bank of Georgia",
+            "id":"1159368231",
+            "name":"Bank of Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/53/3a/00/533a00a7-c33d-f62a-10c4-939334881206/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/bank-of-georgia/id1159368231"
+         },
+         {
+            "artistName":"Fix Tbilisi",
+            "id":"id6447481412",
+            "name":"Fix Tbilisi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/6a/0a/176a0abc-84b0-3f04-5fc7-f5d6b1ef5b4e/AppIcon-0-0-1x_U007ephone-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/fix-tbilisi/id6447481412"
+         },
+         {
+            "artistName":"TBC",
+            "id":"id766598432",
+            "name":"TBC",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/3b/bd/fe3bbd96-c71a-1064-058a-50c5df2ab683/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/tbc-bank/id766598432"
+         },
+         {
+            "artistName":"Georgian Air Quality",
+            "id":"id1554751727",
+            "name":"Georgian Air Quality",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/a8/8d/a3a88dd8-fc72-5999-d4ce-a8d72843fb94/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/georgian-air-quality/id1554751727"
+         },
+         {
+            "artistName":"MYAUTO",
+            "id":"id1527978614",
+            "name":"MYAUTO",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/75/78/58757844-bf0c-bb48-3f19-af849bf4829d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/myauto-ge/id1527978614"
+         },
+         {
+            "artistName":"Super app TNET",
+            "id":"id6444474250",
+            "name":"Super app TNET",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/34/32/f9343248-4955-d4b6-75f9-e573ed4f3323/AppIcon-0-0-1x_U007ephone-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/super-app-tnet/id6444474250"
+         },
+         {
+            "artistName":"TKT.GE",
+            "id":"id1171705105",
+            "name":"TKT.GE",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f8/ab/aa/f8abaa12-892c-681f-286a-90f2a0a12767/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tkt-ge/id1171705105"
+         },
+         {
+            "artistName":"TKT FLY",
+            "id":"id1538994449",
+            "name":"TKT FLY",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/9a/af/eb9aafed-e9da-e8a6-041e-e8971e021821/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tkt-fly/id1538994449"
+         },
+         {
+            "artistName":"MyGarage - MyAuto",
+            "id":"id1538988789",
+            "name":"MyGarage - MyAuto",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/73/78/127378ba-59ed-ff1c-759c-ed8e907a67af/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/mygarage-myauto/id1538988789"
+         },
+         {
+            "artistName":"MYAUTO.GE",
+            "id":"id1527978614",
+            "name":"MYAUTO.GE",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/75/78/58757844-bf0c-bb48-3f19-af849bf4829d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/myauto-ge/id1527978614"
+         },
+         {
+            "artistName":"TKT Manager",
+            "id":"id1459364108",
+            "name":"TKT Manager",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/76/68/6f/76686f34-2b5b-07da-daf2-7327157c1c35/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tkt-manager/id1459364108"
+         },
+         {
+            "artistName":"Nomrebi: Caller ID",
+            "id":"id1345319878",
+            "name":"Nomrebi: Caller ID",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/86/f5/7f86f511-0e48-0498-f277-12eccff09365/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/nomrebi-caller-id/id1345319878"
+         },
+         {
+            "artistName":"EKIMO",
+            "id":"id1465560245",
+            "name":"EKIMO",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/28/32/102832d3-8799-8af1-d082-4978c48f7d3d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/ekimo/id1465560245"
+         },
+         {
+            "artistName":"Cavea Cinemas",
+            "id":"id1456116659",
+            "name":"Cavea Cinemas",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a6/28/30/a6283066-8dfd-5f9a-6492-56fbeea0cf35/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/cavea-cinemas/id1456116659"
+         },
+         {
+            "artistName":"MEAMA",
+            "id":"id1438754087",
+            "name":"MEAMA",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/c3/78/c1c37827-e271-b443-e709-7b81f9d9e08f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/meama/id1438754087"
+         },
+         {
+            "artistName":"My Silknet",
+            "id":"id1223419170",
+            "name":"My Silknet",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/8b/91/1b8b91c3-f221-073d-f7c8-da94735bd378/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/my-silknet/id1223419170"
+         },
+         {
+            "artistName":"Silk Parental Control",
+            "id":"id1512760816",
+            "name":"Silk Parental Control",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/52/d4/5b/52d45bb7-f0ab-e866-185c-b9efa249af06/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/silk-parental-control/id1512760816"
+         },
+         {
+            "artistName":"Silk TV Go",
+            "id":"id911759740",
+            "name":"Silk TV Go",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/52/f9/a6/52f9a69b-088b-ada4-23c6-19010a98f49a/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/silk-tv-go/id911759740"
+         },
+         {
+            "artistName":"Silk TV Remote",
+            "id":"id1077751992",
+            "name":"Silk TV Remote",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/4f/ba/7f/4fba7f41-8d22-6a68-5838-f8aca4789b0d/pr_source.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/silk-tv-remote/id1077751992"
+         },
+         {
+            "artistName":"Europroduct",
+            "id":"id1444405135",
+            "name":"Europroduct",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/87/1c/ae/871cae7b-a355-4579-5f18-765804679fdf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/europroduct/id1444405135"
+         },
+         {
+            "artistName":"Newlight Georgia",
+            "id":"id1383691809",
+            "name":"Newlight Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/39/c5/8e/39c58e83-9837-6c5f-1a20-6876eb303df1/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/newlight-georgia/id1383691809"
+         },
+         {
+            "artistName":"Translate.ge",
+            "id":"id1189190370",
+            "name":"Translate.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/42/d9/a3/42d9a339-e803-123e-cff1-1cab3f53c159/mzl.lrotceax.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/translate-ge/id1189190370"
+         },
+         {
+            "artistName":"Mercedes-Benz of Georgia",
+            "id":"id1169123494",
+            "name":"Mercedes-Benz of Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/f9/5e/db/f95edb93-5820-3fb7-856b-78edc06cda27/pr_source.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/mercedes-benz-of-georgia/id1169123494"
+         },
+         {
+            "artistName":"Goodwill Delivery",
+            "id":"id1567546965",
+            "name":"Goodwill Delivery",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/a8/c6/9ca8c680-abe6-0f7b-f24e-9ef7a0be58d1/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/goodwill-delivery/id1567546965"
+         },
+         {
+            "artistName":"Moitane",
+            "id":"id1498428669",
+            "name":"Moitane",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/61/25/016125fc-1356-a94f-e752-0efcb26b1dda/AppIcon-1-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/moitane/id1498428669"
+         },
+         {
+            "artistName":"Elvis Delivery",
+            "id":"id1524762249",
+            "name":"Elvis Delivery",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/be/b9/ce/beb9ce1b-f90d-e915-2eea-45f5ba916972/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/elvis-delivery/id1524762249"
+         },
+         {
+            "artistName":"Club Iveria",
+            "id":"id1491929947",
+            "name":"Club Iveria",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c3/cb/02/c3cb02eb-5aad-121a-6d06-c97fd9141ff0/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/club-iveria/id1491929947"
+         },
+         {
+            "artistName":"pickup.ge",
+            "id":"id1502229101",
+            "name":"pickup.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/96/ca/20/96ca20ac-02b4-acdd-f76e-228e770d2924/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/pickup-ge/id1502229101"
+         },
+         {
+            "artistName":"QuickShipper Courier",
+            "id":"id1642879886",
+            "name":"QuickShipper Courier",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/ce/d3/e8ced34a-2764-6615-51b6-816604ed08e4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/quickshipper-courier/id1642879886"
+         },
+         {
+            "artistName":"Zoommer",
+            "id":"id1667461489",
+            "name":"Zoommer",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/97/b7/ab97b79c-2260-87ed-1e68-758d324f7cf0/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/zoommer/id1667461489"
+         },
+         {
+            "artistName":"TRE - Train Tickets",
+            "id":"id6449191931",
+            "name":"TRE - Train Tickets",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/66/f1/79/66f179cc-8f10-112d-99be-546c9e2943b4/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tre-train-tickets/id6449191931"
+         },
+         {
+            "artistName":"Dazume",
+            "id":"id1545565884",
+            "name":"Dazume",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/47/13/eb/4713ebb2-1005-4b23-32fb-75a52770d6ac/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/dazume/id1545565884"
+         },
+         {
+            "artistName":"Wendy's & DUNKIN' Georgia",
+            "id":"id1584955566",
+            "name":"Wendy's & DUNKIN' Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/d6/d2/c4d6d2ce-8c5c-7214-7474-67996a2262f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/wendys-dunkin-georgia/id1584955566"
+         },
+         {
+            "artistName":"2 Nabiji",
+            "id":"id1635766103",
+            "name":"2 Nabiji",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/48/09/5a4809c9-dcf4-9e59-b5f8-b6daf644c693/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/2-nabiji/id1635766103"
+         },
+         {
+            "artistName":"2NC",
+            "id":"id1608212958",
+            "name":"2NC",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/ac/91/56ac913b-78b8-7b2e-9be2-b061a443a49b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/2nc/id1608212958"
+         },
+         {
+            "artistName":"2x2 Card",
+            "id":"id1299108887",
+            "name":"2x2 Card",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/35/5d/5c/355d5c58-e1d1-2f50-14ab-c0051b07b535/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/2x2-card/id1299108887"
+         },
+         {
+            "artistName":"NewsHub",
+            "id":"id6449821570",
+            "name":"NewsHub",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/59/92/1b59926e-b8f9-cafe-622c-8e8dcee362c7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/newshub-ge/id6449821570"
+         },
+         {
+            "artistName":"Sweepy georgia",
+            "id":"id1545590076",
+            "name":"Sweepy georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/47/54/a0/4754a04c-2dad-9fad-1784-7aff62479d4d/AppIcon-1x_U007emarketing-0-5-0-P3-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/sweepy-georgia/id1545590076"
+         },
+         {
+            "artistName":"Washman Georgia",
+            "id":"id1624512692",
+            "name":"Washman Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/20/53/94/205394c3-8429-4641-bf4b-7abd708b38cf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/washman-georgia/id1624512692"
+         },
+         {
+            "artistName":"E-Space Car Charging",
+            "id":"id1611008125",
+            "name":"E-Space Car Charging",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/19/61/e919615c-027a-80c7-302c-1fc010572e83/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/e-space-car-charging/id1443769841"
+         },
+         {
+            "artistName":"Neogas",
+            "id":"id1400420097",
+            "name":"Neogas",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/11/3d/d4113df6-f2d0-9745-5233-2d1dc9dd8eee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/neogas/id1400420097"
+         },
+         {
+            "artistName":"Georgian Keyboard ™",
+            "id":"id900035450",
+            "name":"Georgian Keyboard ™",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/37/2b/2f/372b2f65-b2cf-cad0-382c-99a09e0e34bc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/georgian-keyboard/id900035450"
+         },
+         {
+            "artistName":"112 Georgia",
+            "id":"id1155386092",
+            "name":"112 Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/cf/53/ebcf5311-ab08-3906-0026-427d29265504/appicon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/112-georgia/id1155386092"
+         },
+         {
+            "artistName":"Teoria.On.ge",
+            "id":"id1532078416",
+            "name":"Teoria.On.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9f/99/5f/9f995f65-820c-d1dc-d662-c3ebe6dde806/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/teoria-on-ge/id1532078416"
+         },
+         {
+            "artistName":"Scan Product",
+            "id":"id1609928825",
+            "name":"Scan Product",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/fe/1d/c4fe1ddd-a3bf-d89d-01db-3e4d02a8726f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/scan-product/id1609928825"
+         },
+         {
+            "artistName":"Service Agency",
+            "id":"id1574456853",
+            "name":"Service Agency",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/53/f3/1753f3ba-53ab-bd29-9bea-1c21f4982b0c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/service-agency/id1574456853"
+         },
+         {
+            "artistName":"Parking Tbilisi",
+            "id":"id1472868535",
+            "name":"Parking Tbilisi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/10/4f/25/104f25a1-effa-c8f6-2e0a-1d7904c5ae97/AppIcon-0-0-1x_U007emarketing-0-2-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/parking-tbilisi/id1472868535"
+         },
+         {
+            "artistName":"Georgian Parliament",
+            "id":"id1481271823",
+            "name":"E-Space Car Charging",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/1a/3a/2f1a3aab-0554-acb7-6190-12f79f5ec77d/AppIcon-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/georgian-parliament/id1481271823"
+         },
+         {
+            "artistName":"Teoria GE",
+            "id":"id1546570736",
+            "name":"Teoria GE",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/43/9a/4b/439a4bf5-d632-7c4b-160a-70c2371fb889/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/teoria-ge/id1546570736"
+         },
+         {
+            "artistName":"Pravis Testebi",
+            "id":"id1605942284",
+            "name":"Pravis Testebi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/1f/72/8c1f72d5-6886-2c15-f93b-c8a4df4f7b90/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/pravis-testebi/id1605942284"
+         },
+         {
+            "artistName":"Audio Guide Georgia: offline",
+            "id":"id1208569327",
+            "name":"Audio Guide Georgia: offline",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a3/2e/c9/a32ec948-0c20-23e6-6803-54a48fd467bc/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/audio-guide-georgia-offline/id1208569327"
+         },
+         {
+            "artistName":"Guide-U: Georgian Travel App",
+            "id":"id1168636129",
+            "name":"Guide-U: Georgian Travel App",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/95/f6/bf/95f6bf75-059e-f783-95f0-a1103bb7d1c8/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/guide-u-georgian-travel-app/id1168636129"
+         },
+         {
+            "artistName":"Sait: Georgian travel app",
+            "id":"id1641524036",
+            "name":"Sait: Georgian travel app",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/22/a2/da/22a2da2c-0895-e7f8-f940-67801d940eb2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/sait-georgian-travel-app/id1641524036"
+         },
+         {
+            "artistName":"iPlus Georgia",
+            "id":"id1579771123",
+            "name":"iPlus Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3d/78/b0/3d78b051-d35a-827b-c69d-01e20ea72af6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/iplus-georgia/id1579771123"
+         },
+         {
+            "artistName":"SABA Reader: Books, Audio",
+            "id":"id596814126",
+            "name":"SABA Reader: Books, Audio",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/5e/b3/e15eb360-87ab-4c74-9967-708fc1140064/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/saba-reader-books-audio/id596814126"
+         },
+         {
+            "artistName":"USA2GEORGIA",
+            "id":"id1461461537",
+            "name":"USA2GEORGIA",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/55/a7/8d55a799-b7f4-1708-8bf1-ddea6622b81d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/usa2georgia/id1461461537"
+         },
+         {
+            "artistName":"Locker.ge",
+            "id":"id1441247700",
+            "name":"Locker.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/81/63/c3/8163c325-02d4-cc04-b2db-bfbbc0299d91/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/locker-ge/id1441247700"
+         },
+         {
+            "artistName":"TBC Insurance",
+            "id":"id1484466064",
+            "name":"TBC Insurance",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/42/e1/11/42e11159-ca8f-da37-1e3f-6df5be25d16a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tbc-insurance/id1484466064"
+         },
+         {
+            "artistName":"Archi.ge",
+            "id":"id1506595848",
+            "name":"Archi.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/ba/d4/80bad4b4-6312-43d4-289b-cd7df84989e5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/archi-ge/id1506595848"
+         }
       ]
-    }
- }
+   }
+}
