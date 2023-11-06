@@ -1,6 +1,6 @@
 {
    "feed":{
-      "title":"Top Free Apps",
+      "title":"Top Georgian Apps",
       "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
       "author":{
          "name":"Apple",
@@ -723,6 +723,246 @@
                
             ],
             "url":"https://apps.apple.com/us/app/archi-ge/id1506595848"
+         },
+         {
+            "artistName":"Vefxistyaosani",
+            "id":"id1494639788",
+            "name":"Vefxistyaosani",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/c4/cd/98c4cd06-75ba-5293-9bf6-af432e8ca6b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/vefxistyaosani/id1494639788"
+         },
+         {
+            "artistName":"LAGI",
+            "id":"id1488784236",
+            "name":"LAGI",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/83/f7/b683f798-713f-e4e6-c84a-955fbf9096b7/AppIcon-1x_U007emarketing-0-7-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/lagi/id1488784236"
+         },
+         {
+            "artistName":"Chamoxrchobana",
+            "id":"id1584854848",
+            "name":"Chamoxrchobana",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/15/10/bb1510f6-a34c-8199-8c8d-7c43607f459b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/chamoxrchobana/id1584854848"
+         },
+         {
+            "artistName":"Ipove Sityva",
+            "id":"id1644588606",
+            "name":"Ipove Sityva",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/e0/07/c5e007de-4c0d-98a2-7f69-875b670459fb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/ipove-sityva/id1644588606"
+         },
+         {
+            "artistName":"Photo Axlodan",
+            "id":"id1584985074",
+            "name":"Photo Axlodan",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/6f/59/5b/6f595bf6-25b4-28d4-eaef-98b59dda1197/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/photo-axlodan/id1584985074"
+         },
+         {
+            "artistName":"Martivi Logika",
+            "id":"id1378461306",
+            "name":"Martivi Logika",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/af/b6/66afb676-0c58-e95f-cf66-483e4fe8be9e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/martivi-logika/id1378461306"
+         },
+         {
+            "artistName":"Martivi Logika NEW",
+            "id":"id1400420097",
+            "name":"Martivi Logika NEW",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6a/1b/3a/6a1b3a84-151d-ec25-1ea1-617f00aa23e4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/martivi-logika-new/id1626667186"
+         },
+         {
+            "artistName":"Guess Georgian Word",
+            "id":"id1608790468",
+            "name":"Guess Georgian Word",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/21/1f/72/211f7245-a3f1-752b-d52a-135e32794703/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/guess-georgian-word/id1608790468"
+         },
+         {
+            "artistName":"gamoitsani gamosakhuleba",
+            "id":"id1252607748",
+            "name":"gamoitsani gamosakhuleba",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ea/dc/e9/eadce9d8-4139-a4a0-f94b-63fa0d13df09/mzl.jzhymtwl.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/gamoitsani-gamosakhuleba/id1252607748"
+         },
+         {
+            "artistName":"Find Words Georgian",
+            "id":"id1665898555",
+            "name":"Find Words Georgian",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/ba/62/73ba6213-6bde-832a-22bc-3f95e4a21738/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/find-words-georgian/id1665898555"
+         },
+         {
+            "artistName":"gamoitsani sitqva",
+            "id":"id1319289874",
+            "name":"gamoitsani sitqva",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/67/d0/6c/67d06cdb-b029-2404-f6c3-97f28febf393/AppIcon-1x_U007emarketing-85-220-0-9.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/gamoitsani-sitqva/id1319289874"
+         },
+         {
+            "artistName":"Davita",
+            "id":"id1538733443",
+            "name":"Davita",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/99/38/4e/99384ec8-8651-8546-1b9c-e2a9dfe022c3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/davita/id1538733443"
+         },
+         {
+            "artistName":"Tamashebi",
+            "id":"id1400420097",
+            "name":"Tamashebi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/b0/d6/64b0d61d-56b7-ed79-fd49-db5d72b7b54c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tamashebi/id1558720101"
+         },
+         {
+            "artistName":"Joker • JokerStars",
+            "id":"id1339226209",
+            "name":"Joker • JokerStars",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/da/0c/b5/da0cb55b-63d4-be95-cfdb-0b4606cdb3c9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/joker-jokerstars/id1339226209"
+         },
+         {
+            "artistName":"BuraStars",
+            "id":"id1626038937",
+            "name":"BuraStars",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/de/02/d6/de02d6c5-da1e-73b6-81cd-5d3342d60de1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/burastars/id1626038937"
+         },
+         {
+            "artistName":"Joker ^ Jokerstars",
+            "id":"id1636308497",
+            "name":"Joker ^ Jokerstars",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/35/fe/df35fe82-33d6-f148-45c4-05c097753ca3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/joker-jokerstars/id1636308497"
+         },
+         {
+            "artistName":"zghapAR",
+            "id":"id1575718611",
+            "name":"zghapAR",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/31/60/5a/31605ad8-a686-1ba3-3c1d-10e9510fcbba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/zghapar/id1575718611"
+         },
+         {
+            "artistName":"Tedo_And_Nutsa",
+            "id":"id1670051678",
+            "name":"Tedo_And_Nutsa",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/18/9d/65189d19-cad6-c2e7-fc8e-445019cb6aac/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tedo-and-nutsa/id1670051678"
+         },
+         {
+            "artistName":"Multfilmebi",
+            "id":"id1545834091",
+            "name":"Multfilmebi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/cb/52/9ccb520f-2d9d-ce53-01db-5f66c047c467/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/multfilmebi/id1545834091"
+         },
+         {
+            "artistName":"Parliament RoP",
+            "id":"id1470664176",
+            "name":"Parliament RoP",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/6d/a3/5e6da33f-3dde-88d5-d7b6-468fc1f29057/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/parliament-rop/id1470664176"
          }
       ]
    }
