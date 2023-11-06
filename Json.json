@@ -1,6 +1,6 @@
 {
    "feed":{
-      "title":"Top Georgian Apps",
+      "title":"Top Free Apps",
       "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
       "author":{
          "name":"Apple",
@@ -963,6 +963,270 @@
                
             ],
             "url":"https://apps.apple.com/us/app/parliament-rop/id1470664176"
+         },
+         {
+            "artistName":"Georgian Megrelian Dictionery",
+            "id":"id1565204617",
+            "name":"Georgian Megrelian Dictionery",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7e/55/1f/7e551ffd-b1cf-eafd-adc2-da2529054ba8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/georgian-megrelian-dictionery/id1565204617"
+         },
+         {
+            "artistName":"Smart Georgian Dictionary",
+            "id":"id1606873808",
+            "name":"Smart Georgian Dictionary",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/c7/ab/c5c7abef-8dce-ff7d-8896-55f2490599b3/georgian-0-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/smart-georgian-dictionary/id1606873808"
+         },
+         {
+            "artistName":"Learn Georgian Alphabet!",
+            "id":"id1545834091",
+            "name":"Learn Georgian Alphabet!",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/86/85/2e8685ad-80d7-df70-91b0-af0ced39a967/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/learn-georgian-alphabet/id1673597865"
+         },
+         {
+            "artistName":"English to Georgian Dictionary",
+            "id":"id1496508558",
+            "name":"English to Georgian Dictionary",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/49/51/98/495198d0-5003-d9e8-cd17-07ef30c69846/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/english-to-georgian-dictionary/id1496508558"
+         },
+         {
+            "artistName":"English To Georgian Trans",
+            "id":"id1603049572",
+            "name":"English To Georgian Trans",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/16/45/f01645d5-b128-159b-a9b0-7f7357933951/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/english-to-georgian-trans/id1603049572"
+         },
+         {
+            "artistName":"Learn Easy Georgian 12 Letters",
+            "id":"id1638609654",
+            "name":"Learn Easy Georgian 12 Letters",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/19/5c/7b/195c7bf2-db9e-ad8c-19f7-28fe5392d067/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/learn-easy-georgian-12-letters/id1638609654"
+         },
+         {
+            "artistName":"Georgian Flashcards with Pictures Lite",
+            "id":"id894346048",
+            "name":"Georgian Flashcards with Pictures Lite",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple22/v4/4b/fc/84/4bfc84c8-6136-129d-89a4-3e99329916e8/mzl.cwgzwula.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/georgian-flashcards-with-pictures-lite/id894346048"
+         },
+         {
+            "artistName":"Bookshop.ge",
+            "id":"id1599438594",
+            "name":"Bookshop.ge",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/5b/84/315b846e-ce44-c21e-d49c-4b53c4bcb9fc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/bookshop-ge/id1599438594"
+         },
+         {
+            "artistName":"Argus LMS",
+            "id":"id1559920018",
+            "name":"Argus LMS",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/7a/75/f97a7527-0a69-e24a-5d5f-93099d3d7799/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/argus-lms/id1559920018"
+         },
+         {
+            "artistName":"Starti",
+            "id":"id1541875226",
+            "name":"Starti",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d8/24/a0/d824a0a9-85e1-10b8-a1bc-451848181a28/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/starti/id1541875226"
+         },
+         {
+            "artistName":"Any Book - Georgian Books",
+            "id":"id6446055319",
+            "name":"Any Book - Georgian Books",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/5e/30/8e5e30cc-4bc3-2e2a-37c0-193f45e4826d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/any-book-georgian-books/id6446055319"
+         },
+         {
+            "artistName":"Viqtorina",
+            "id":"id1621952226",
+            "name":"Viqtorina",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/42/2f/c0422fde-c525-fb1a-f041-f42034e8b582/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/viqtorina/id1621952226"
+         },
+         {
+            "artistName":"Viqtorina",
+            "id":"id1545834091",
+            "name":"Multfilmebi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/cb/52/9ccb520f-2d9d-ce53-01db-5f66c047c467/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/multfilmebi/id1545834091"
+         },
+         {
+            "artistName":"Truth or Dare - Beer Game",
+            "id":"id1501353985",
+            "name":"Truth or Dare - Beer Game",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/53/94/b2/5394b24f-43c8-a538-9311-cbb2758f0a08/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/truth-or-dare-beer-game/id1501353985"
+         },
+         {
+            "artistName":"Tbilisi Transport",
+            "id":"id1437141092",
+            "name":"Tbilisi Transport",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/da/79/61da79da-720d-21e2-2b5b-6daad0564eac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tbilisi-transport/id1437141092"
+         },
+         {
+            "artistName":"Matsne",
+            "id":"id954200337",
+            "name":"Matsne",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d2/bd/31d2bdcf-b870-a201-49d2-4398d1218ef5/mzl.xyuzikuc.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/matsne/id954200337"
+         },
+         {
+            "artistName":"Sufris Tamada",
+            "id":"id1559890855",
+            "name":"Sufris Tamada",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/e0/c3/fde0c36b-c599-da87-2241-d6c908db0033/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/sufris-tamada/id1559890855"
+         },
+         {
+            "artistName":"GeoTales - Zgaprebi",
+            "id":"id1589203516",
+            "name":"GeoTales - Zgaprebi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/53/f6/fd53f6b6-591e-0f15-9a24-58458284872b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/geotales-zgaprebi/id1589203516"
+         },
+         {
+            "artistName":"Biliki - Self-Guided Tours",
+            "id":"id1495793884",
+            "name":"Biliki - Self-Guided Tours",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6f/ac/6f/6fac6fb5-ed2a-5b6b-8e53-2824b39a35d1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/biliki-self-guided-tours/id1495793884"
+         },
+         {
+            "artistName":"TravelGIS",
+            "id":"id882211585",
+            "name":"TravelGIS",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/66/42/c5/6642c5fb-647b-67c2-ce5b-c84ee2bc677d/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/travelgis/id882211585"
+         },
+         {
+            "artistName":"Genatsvale AR",
+            "id":"id1446715535",
+            "name":"Genatsvale AR",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/78/ea/92/78ea922d-bb50-1e7b-c901-9e5cd873bd98/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/genatsvale-ar/id1446715535"
+         },
+         {
+            "artistName":"Galoba",
+            "id":"id1481196841",
+            "name":"Galoba",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/69/b2/8069b256-c1ac-5139-382c-a04ac95f51a2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/galoba/id1481196841"
          }
       ]
    }
