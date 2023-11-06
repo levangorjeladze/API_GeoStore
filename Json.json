@@ -785,18 +785,6 @@
             "url":"https://apps.apple.com/us/app/photo-axlodan/id1584985074"
          },
          {
-            "artistName":"Martivi Logika",
-            "id":"id1378461306",
-            "name":"Martivi Logika",
-            "releaseDate":"2020-04-10",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/af/b6/66afb676-0c58-e95f-cf66-483e4fe8be9e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-            "genres":[
-               
-            ],
-            "url":"https://apps.apple.com/us/app/martivi-logika/id1378461306"
-         },
-         {
             "artistName":"Martivi Logika NEW",
             "id":"id1400420097",
             "name":"Martivi Logika NEW",
@@ -1227,6 +1215,210 @@
                
             ],
             "url":"https://apps.apple.com/us/app/galoba/id1481196841"
+         },
+         {
+            "artistName":"Mkhiaruli Matematika",
+            "id":"id1644172620",
+            "name":"Mkhiaruli Matematika",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/37/61/f8/3761f8fc-f7bc-52f3-ff5d-6d562b90da97/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/mkhiaruli-matematika/id1644172620"
+         },
+         {
+            "artistName":"Jirafi Alfredi",
+            "id":"id1598074227",
+            "name":"Jirafi Alfredi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/2f/f4/132ff4d9-d8a2-20ce-904c-206e70480d0c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/jirafi-alfredi/id1598074227"
+         },
+         {
+            "artistName":"Momgerali Bakaki",
+            "id":"id1594147727",
+            "name":"Momgerali Bakaki",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/47/cb/2747cbe1-f868-41c9-d01c-c0bbe76456c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/momgerali-bakaki/id1594147727"
+         },
+         {
+            "artistName":"Sofeli Samsokota",
+            "id":"id1598071481",
+            "name":"Sofeli Samsokota",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/af/43/79/af43792b-a2fd-1863-7ffa-148b50c8df36/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/sofeli-samsokota/id1598071481"
+         },
+         {
+            "artistName":"Kurka",
+            "id":"id1594140156",
+            "name":"Kurka",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ad/78/fd/ad78fd5e-fa15-c665-6bae-1441a3a0b65e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/kurka/id1594140156"
+         },
+         {
+            "artistName":"Dzveleburi Nivtebis Muzeumi",
+            "id":"id1594175174",
+            "name":"Dzveleburi Nivtebis Muzeumi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/05/a7/a705a794-7575-d256-ed57-cfee746b00f6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/dzveleburi-nivtebis-muzeumi/id1594175174"
+         },
+         {
+            "artistName":"Fiso Fio-Fio",
+            "id":"id1594153202",
+            "name":"Fiso Fio-Fio",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/44/8a/0a448a73-b0f2-4b0a-0375-5b8fe3a11a41/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/fiso-fio-fio/id1594153202"
+         },
+         {
+            "artistName":"Tetri Datvi Da Mura Datvi",
+            "id":"id1594172692",
+            "name":"Tetri Datvi Da Mura Datvi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/04/40/7f/04407f59-80f2-cb5c-eff6-59eee6aff5a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tetri-datvi-da-mura-datvi/id1594172692"
+         },
+         {
+            "artistName":"Tskhvolebis Tserileb",
+            "id":"id1594144280",
+            "name":"Tskhvolebis Tserileb",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/4a/fd/954afd72-b5f6-b3bf-4476-1be4a60061b2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/tskhvolebis-tserilebi/id1594144280"
+         },
+         {
+            "artistName":"Airchie Gvirgvini",
+            "id":"id1594158584",
+            "name":"Airchie Gvirgvini",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/33/55/6f3355ee-9805-0898-c810-8b9710066543/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/airchie-gvirgvini/id1594158584"
+         },
+         {
+            "artistName":"Dabzaruli Guli",
+            "id":"id1594168339",
+            "name":"Dabzaruli Guli",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/12/90/8a/12908a04-dd1c-bdd6-0328-3a52dc7b932b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/dabzaruli-guli/id1594168339"
+         },
+         {
+            "artistName":"Magaziobana",
+            "id":"id1594165550",
+            "name":"Magaziobana",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/c6/35/62c6359e-9bc7-8a93-2d72-bb3c30bed5f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/magaziobana/id1594165550"
+         },
+         {
+            "artistName":"Zgapari Tusize Da Kidev tusize",
+            "id":"id1594170754",
+            "name":"Zgapari Tusize Da Kidev tusize",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/e7/67/a8e767e0-663b-e70b-6339-6b069c7df4dc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/zgapari-tusize-da-kidev-tusize/id1594170754"
+         },
+         {
+            "artistName":"Anbani",
+            "id":"id1506972449",
+            "name":"Anbani",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/a6/04/4aa60447-b9c1-b20e-f867-0af8df07cfda/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/anbani/id1506972449"
+         },
+         {
+            "artistName":"Sitkvobana",
+            "id":"id1506972833",
+            "name":"Sitkvobana",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/4c/09/a94c0991-3b82-147d-aab8-7fb1e538ec27/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/sitkvobana/id1506972833"
+         },
+         {
+            "artistName":"Debiloba",
+            "id":"id1510134550",
+            "name":"Debiloba",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/be/cf/13/becf133b-80d6-14c5-0fba-55c9b96e6a35/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/debiloba/id1510134550"
+         },
+         {
+            "artistName":"Martivi Logika",
+            "id":"id1378461306",
+            "name":"Martivi Logika",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/af/b6/66afb676-0c58-e95f-cf66-483e4fe8be9e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/martivi-logika/id1378461306"
          }
       ]
    }
