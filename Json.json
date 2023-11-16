@@ -32,9 +32,12 @@
             "artistName":"Fix Tbilisi",
             "id":"id6447481412",
             "name":"Fix Tbilisi",
-            "releaseDate":"2020-04-10",
+            "releaseDate":"2022-08-31",
             "kind":"apps",
             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/6a/0a/176a0abc-84b0-3f04-5fc7-f5d6b1ef5b4e/AppIcon-0-0-1x_U007ephone-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
             "url":"https://apps.apple.com/us/app/fix-tbilisi/id6447481412"
          },
          {
