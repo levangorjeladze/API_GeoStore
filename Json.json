@@ -17,18 +17,6 @@
       "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
       "results":[
          {
-            "artistName":"Fix Tbilisi",
-            "id":"id6447481412",
-            "name":"Fix Tbilisi",
-            "releaseDate":"2020-04-10",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/6a/0a/176a0abc-84b0-3f04-5fc7-f5d6b1ef5b4e/AppIcon-0-0-1x_U007ephone-0-85-220.png/460x0w.webp",
-            "genres":[
-               
-            ],
-            "url":"https://apps.apple.com/us/app/fix-tbilisi/id6447481412"
-         },
-         {
             "artistName":"Bank of Georgia",
             "id":"1159368231",
             "name":"Bank of Georgia",
@@ -39,6 +27,18 @@
                
             ],
             "url":"https://apps.apple.com/ge/app/bank-of-georgia/id1159368231"
+         },
+         {
+            "artistName":"Fix Tbilisi",
+            "id":"id6447481412",
+            "name":"Fix Tbilisi",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/6a/0a/176a0abc-84b0-3f04-5fc7-f5d6b1ef5b4e/AppIcon-0-0-1x_U007ephone-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/fix-tbilisi/id6447481412"
          },
          {
             "artistName":"TBC",
