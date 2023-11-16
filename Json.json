@@ -17,18 +17,6 @@
       "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
       "results":[
          {
-            "artistName":"Bank of Georgia",
-            "id":"1159368231",
-            "name":"Bank of Georgia",
-            "releaseDate":"2020-04-10",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/53/3a/00/533a00a7-c33d-f62a-10c4-939334881206/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-            "genres":[
-               
-            ],
-            "url":"https://apps.apple.com/ge/app/bank-of-georgia/id1159368231"
-         },
-         {
             "artistName":"Fix Tbilisi",
             "id":"id6447481412",
             "name":"Fix Tbilisi",
@@ -39,6 +27,18 @@
                
             ],
             "url":"https://apps.apple.com/us/app/fix-tbilisi/id6447481412"
+         },
+         {
+            "artistName":"Bank of Georgia",
+            "id":"1159368231",
+            "name":"Bank of Georgia",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/53/3a/00/533a00a7-c33d-f62a-10c4-939334881206/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/bank-of-georgia/id1159368231"
          },
          {
             "artistName":"TBC",
