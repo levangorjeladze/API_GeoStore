@@ -1,20 +1,20 @@
 {
    "feed":{
-      "title":"Top Georgian Apps",
-      "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
+      "title":"Top Free Apps",
+      "id":"https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json",
       "author":{
          "name":"Apple",
          "url":"https://www.apple.com/"
       },
       "links":[
          {
-            "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json"
+            "self":"https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
          }
       ],
       "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
       "country":"us",
       "icon":"https://www.apple.com/favicon.ico",
-      "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
+      "updated":"Wed, 15 Nov 2023 19:51:53 +0000",
       "results":[
          {
             "artistName":"Bank of Georgia",
