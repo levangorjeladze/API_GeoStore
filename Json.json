@@ -1,14 +1,14 @@
 {
    "feed":{
       "title":"Top Free Apps",
-      "id":"https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json",
+      "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
       "author":{
          "name":"Apple",
          "url":"https://www.apple.com/"
       },
       "links":[
          {
-            "self":"https://rss.applemarketingtools.com/api/v2/us/apps/top-free/50/apps.json"
+            "self":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json"
          }
       ],
       "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
