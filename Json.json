@@ -16,6 +16,18 @@
       "icon":"https://www.apple.com/favicon.ico",
       "updated":"Wed, 15 Nov 2023 19:51:53 +0000",
       "results":[
+        {
+            "artistName":"Silknet",
+            "id":"6443485981",
+            "name":"My Silknet (NEW)",
+            "releaseDate":"2023-06-09",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/2b/30/422b302c-df71-bbd8-c9e9-c630335a5abc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/100x100bb.png",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/my-silknet-new/id6443485981"
+         },
          {
             "artistName":"OpenAI",
             "id":"6448311069",
