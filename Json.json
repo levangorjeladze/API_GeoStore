@@ -16,22 +16,6 @@
       "icon":"https://www.apple.com/favicon.ico",
       "updated":"Wed, 15 Nov 2023 19:51:53 +0000",
       "results":[
-        {
-            "artistName":"PSP PHARMA LLC",
-            "id":"1638514214",
-            "name":"PSP APP",
-            "releaseDate":"2022-08-11",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/8f/8f/be8f8f2a-ef72-5027-ad9a-488955f92c4f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-            "genres":[
-               {
-                  "genreId":"6024",
-                  "name":"Shopping",
-                  "url":"https://itunes.apple.com/ge/genre/id6024"
-               }
-            ],
-            "url":"https://apps.apple.com/ge/app/psp-app/id1638514214"
-         },
          {
             "artistName":"Ori Nabiji LLC(Limited liability Company)",
             "id":"1635766103",
