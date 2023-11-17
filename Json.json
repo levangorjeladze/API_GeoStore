@@ -17,6 +17,18 @@
       "updated":"Wed, 15 Nov 2023 19:51:53 +0000",
       "results":[
          {
+            "artistName":"OpenAI",
+            "id":"6448311069",
+            "name":"ChatGPT",
+            "releaseDate":"2023-05-18",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/14/87/cf/1487cfec-174e-ee6a-fc9c-96b7fdb7c6a5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/chatgpt/id6448311069"
+         },
+         {
             "artistName":"Bank of Georgia",
             "id":"1159368231",
             "name":"Bank of Georgia",
