@@ -1,6 +1,6 @@
 {
    "feed":{
-      "title":"Top Free Apps",
+      "title":"Top Georgian Apps",
       "id":"https://raw.githubusercontent.com/levangorjeladze/API_GeoStore/main/Json.json",
       "author":{
          "name":"Apple",
@@ -12,46 +12,10 @@
          }
       ],
       "copyright":"Copyright © 2023 Apple Inc. All rights reserved.",
-      "country":"us",
+      "country":"ge",
       "icon":"https://www.apple.com/favicon.ico",
-      "updated":"Wed, 15 Nov 2023 19:51:53 +0000",
+      "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
       "results":[
-         {
-            "artistName":"Ori Nabiji LLC(Limited liability Company)",
-            "id":"1635766103",
-            "name":"2 Nabiji",
-            "releaseDate":"2022-09-15",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/48/09/5a4809c9-dcf4-9e59-b5f8-b6daf644c693/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-            "genres":[
-                  
-            ],
-           "url":"https://apps.apple.com/ge/app/2-nabiji/id1635766103"
-         },
-         {
-            "artistName":"Silknet",
-            "id":"6443485981",
-            "name":"My Silknet (NEW)",
-            "releaseDate":"2023-06-09",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/2b/30/422b302c-df71-bbd8-c9e9-c630335a5abc/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/100x100bb.png",
-            "genres":[
-               
-            ],
-            "url":"https://apps.apple.com/ge/app/my-silknet-new/id6443485981"
-         },
-         {
-            "artistName":"OpenAI",
-            "id":"6448311069",
-            "name":"ChatGPT",
-            "releaseDate":"2020-04-10",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/14/87/cf/1487cfec-174e-ee6a-fc9c-96b7fdb7c6a5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.png",
-            "genres":[
-               
-            ],
-            "url":"https://apps.apple.com/us/app/chatgpt/id6448311069"
-         },
          {
             "artistName":"Bank of Georgia",
             "id":"1159368231",
@@ -68,7 +32,7 @@
             "artistName":"Fix Tbilisi",
             "id":"id6447481412",
             "name":"Fix Tbilisi",
-            "releaseDate":"2022-08-31",
+            "releaseDate":"2020-04-10",
             "kind":"apps",
             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/17/6a/0a/176a0abc-84b0-3f04-5fc7-f5d6b1ef5b4e/AppIcon-0-0-1x_U007ephone-0-85-220.png/460x0w.webp",
             "genres":[
@@ -447,6 +411,18 @@
                
             ],
             "url":"https://apps.apple.com/us/app/wendys-dunkin-georgia/id1584955566"
+         },
+         {
+            "artistName":"2 Nabiji",
+            "id":"id1635766103",
+            "name":"2 Nabiji",
+            "releaseDate":"2020-04-10",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/48/09/5a4809c9-dcf4-9e59-b5f8-b6daf644c693/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/us/app/2-nabiji/id1635766103"
          },
          {
             "artistName":"2NC",
