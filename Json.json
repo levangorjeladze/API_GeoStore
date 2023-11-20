@@ -18,7 +18,7 @@
       "results":[
          {
             "artistName":"Wissol",
-            "id":"1634800977",
+            "id":"id1634800977",
             "name":"Wissol",
             "releaseDate":"2023-03-23",
             "kind":"apps",
@@ -42,7 +42,7 @@
          },
          {
             "artistName":"Fix Tbilisi",
-            "id":"id6447481412",
+            "id":"6447481412",
             "name":"Fix Tbilisi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
