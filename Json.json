@@ -17,6 +17,18 @@
       "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
       "results":[
          {
+         "artistName":"Wissol",
+         "id":"id1634800977",
+         "name":"Wissol",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/36/f4/3e36f42e-9287-0f75-a905-8a4fbfe8973f/AppIcon-prod-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/wissol/id1634800977"
+      },
+         {
             "artistName":"Bank of Georgia",
             "id":"1159368231",
             "name":"Bank of Georgia",
