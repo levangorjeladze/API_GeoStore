@@ -17,18 +17,6 @@
       "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
       "results":[
          {
-            "artistName":"Wissol",
-            "id":"id1634800977",
-            "name":"Wissol",
-            "releaseDate":"2023-03-23",
-            "kind":"apps",
-            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/8a/f8/d48af897-680d-4b10-b352-12d151b8efb5/AppIcon-prod-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-            "genres":[
-      
-               ],
-            "url":"https://apps.apple.com/ge/app/wissol/id1634800977"
-         },
-         {
             "artistName":"Bank of Georgia",
             "id":"1159368231",
             "name":"Bank of Georgia",
@@ -54,7 +42,7 @@
          },
          {
             "artistName":"TBC",
-            "id":"id766598432",
+            "id":"766598432",
             "name":"TBC",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -66,7 +54,7 @@
          },
          {
             "artistName":"Georgian Air Quality",
-            "id":"id1554751727",
+            "id":"1554751727",
             "name":"Georgian Air Quality",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -78,7 +66,7 @@
          },
          {
             "artistName":"MYAUTO",
-            "id":"id1527978614",
+            "id":"1527978614",
             "name":"MYAUTO",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -90,7 +78,7 @@
          },
          {
             "artistName":"Super app TNET",
-            "id":"id6444474250",
+            "id":"6444474250",
             "name":"Super app TNET",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -102,7 +90,7 @@
          },
          {
             "artistName":"TKT.GE",
-            "id":"id1171705105",
+            "id":"1171705105",
             "name":"TKT.GE",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -114,7 +102,7 @@
          },
          {
             "artistName":"TKT FLY",
-            "id":"id1538994449",
+            "id":"1538994449",
             "name":"TKT FLY",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -126,7 +114,7 @@
          },
          {
             "artistName":"MyGarage - MyAuto",
-            "id":"id1538988789",
+            "id":"1538988789",
             "name":"MyGarage - MyAuto",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -138,7 +126,7 @@
          },
          {
             "artistName":"MYAUTO.GE",
-            "id":"id1527978614",
+            "id":"1527978614",
             "name":"MYAUTO.GE",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -150,7 +138,7 @@
          },
          {
             "artistName":"TKT Manager",
-            "id":"id1459364108",
+            "id":"1459364108",
             "name":"TKT Manager",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -162,7 +150,7 @@
          },
          {
             "artistName":"Nomrebi: Caller ID",
-            "id":"id1345319878",
+            "id":"1345319878",
             "name":"Nomrebi: Caller ID",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -174,7 +162,7 @@
          },
          {
             "artistName":"EKIMO",
-            "id":"id1465560245",
+            "id":"1465560245",
             "name":"EKIMO",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -186,7 +174,7 @@
          },
          {
             "artistName":"Cavea Cinemas",
-            "id":"id1456116659",
+            "id":"1456116659",
             "name":"Cavea Cinemas",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -198,7 +186,7 @@
          },
          {
             "artistName":"MEAMA",
-            "id":"id1438754087",
+            "id":"1438754087",
             "name":"MEAMA",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -210,7 +198,7 @@
          },
          {
             "artistName":"My Silknet",
-            "id":"id1223419170",
+            "id":"1223419170",
             "name":"My Silknet",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -222,7 +210,7 @@
          },
          {
             "artistName":"Silk Parental Control",
-            "id":"id1512760816",
+            "id":"1512760816",
             "name":"Silk Parental Control",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -234,7 +222,7 @@
          },
          {
             "artistName":"Silk TV Go",
-            "id":"id911759740",
+            "id":"911759740",
             "name":"Silk TV Go",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -246,7 +234,7 @@
          },
          {
             "artistName":"Silk TV Remote",
-            "id":"id1077751992",
+            "id":"1077751992",
             "name":"Silk TV Remote",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -258,7 +246,7 @@
          },
          {
             "artistName":"Europroduct",
-            "id":"id1444405135",
+            "id":"1444405135",
             "name":"Europroduct",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -270,7 +258,7 @@
          },
          {
             "artistName":"Newlight Georgia",
-            "id":"id1383691809",
+            "id":"1383691809",
             "name":"Newlight Georgia",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -282,7 +270,7 @@
          },
          {
             "artistName":"Translate.ge",
-            "id":"id1189190370",
+            "id":"1189190370",
             "name":"Translate.ge",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -294,7 +282,7 @@
          },
          {
             "artistName":"Mercedes-Benz of Georgia",
-            "id":"id1169123494",
+            "id":"1169123494",
             "name":"Mercedes-Benz of Georgia",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -306,7 +294,7 @@
          },
          {
             "artistName":"Goodwill Delivery",
-            "id":"id1567546965",
+            "id":"1567546965",
             "name":"Goodwill Delivery",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -318,7 +306,7 @@
          },
          {
             "artistName":"Moitane",
-            "id":"id1498428669",
+            "id":"1498428669",
             "name":"Moitane",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -330,7 +318,7 @@
          },
          {
             "artistName":"Elvis Delivery",
-            "id":"id1524762249",
+            "id":"1524762249",
             "name":"Elvis Delivery",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -342,7 +330,7 @@
          },
          {
             "artistName":"Club Iveria",
-            "id":"id1491929947",
+            "id":"1491929947",
             "name":"Club Iveria",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -354,7 +342,7 @@
          },
          {
             "artistName":"pickup.ge",
-            "id":"id1502229101",
+            "id":"1502229101",
             "name":"pickup.ge",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -366,7 +354,7 @@
          },
          {
             "artistName":"QuickShipper Courier",
-            "id":"id1642879886",
+            "id":"1642879886",
             "name":"QuickShipper Courier",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -378,7 +366,7 @@
          },
          {
             "artistName":"Zoommer",
-            "id":"id1667461489",
+            "id":"1667461489",
             "name":"Zoommer",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -390,7 +378,7 @@
          },
          {
             "artistName":"TRE - Train Tickets",
-            "id":"id6449191931",
+            "id":"6449191931",
             "name":"TRE - Train Tickets",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -402,7 +390,7 @@
          },
          {
             "artistName":"Dazume",
-            "id":"id1545565884",
+            "id":"1545565884",
             "name":"Dazume",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -414,7 +402,7 @@
          },
          {
             "artistName":"Wendy's & DUNKIN' Georgia",
-            "id":"id1584955566",
+            "id":"1584955566",
             "name":"Wendy's & DUNKIN' Georgia",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -426,7 +414,7 @@
          },
          {
             "artistName":"2 Nabiji",
-            "id":"id1635766103",
+            "id":"1635766103",
             "name":"2 Nabiji",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -438,7 +426,7 @@
          },
          {
             "artistName":"2NC",
-            "id":"id1608212958",
+            "id":"1608212958",
             "name":"2NC",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -450,7 +438,7 @@
          },
          {
             "artistName":"2x2 Card",
-            "id":"id1299108887",
+            "id":"1299108887",
             "name":"2x2 Card",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -462,7 +450,7 @@
          },
          {
             "artistName":"NewsHub",
-            "id":"id6449821570",
+            "id":"6449821570",
             "name":"NewsHub",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -474,7 +462,7 @@
          },
          {
             "artistName":"Sweepy georgia",
-            "id":"id1545590076",
+            "id":"1545590076",
             "name":"Sweepy georgia",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -486,7 +474,7 @@
          },
          {
             "artistName":"Washman Georgia",
-            "id":"id1624512692",
+            "id":"1624512692",
             "name":"Washman Georgia",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -498,7 +486,7 @@
          },
          {
             "artistName":"E-Space Car Charging",
-            "id":"id1611008125",
+            "id":"1611008125",
             "name":"E-Space Car Charging",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -510,7 +498,7 @@
          },
          {
             "artistName":"Neogas",
-            "id":"id1400420097",
+            "id":"1400420097",
             "name":"Neogas",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -522,7 +510,7 @@
          },
          {
             "artistName":"Georgian Keyboard ™",
-            "id":"id900035450",
+            "id":"900035450",
             "name":"Georgian Keyboard ™",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -534,7 +522,7 @@
          },
          {
             "artistName":"112 Georgia",
-            "id":"id1155386092",
+            "id":"1155386092",
             "name":"112 Georgia",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -546,7 +534,7 @@
          },
          {
             "artistName":"Teoria.On.ge",
-            "id":"id1532078416",
+            "id":"1532078416",
             "name":"Teoria.On.ge",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -558,7 +546,7 @@
          },
          {
             "artistName":"Scan Product",
-            "id":"id1609928825",
+            "id":"1609928825",
             "name":"Scan Product",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -570,7 +558,7 @@
          },
          {
             "artistName":"Service Agency",
-            "id":"id1574456853",
+            "id":"1574456853",
             "name":"Service Agency",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -582,7 +570,7 @@
          },
          {
             "artistName":"Parking Tbilisi",
-            "id":"id1472868535",
+            "id":"1472868535",
             "name":"Parking Tbilisi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -594,7 +582,7 @@
          },
          {
             "artistName":"Georgian Parliament",
-            "id":"id1481271823",
+            "id":"1481271823",
             "name":"E-Space Car Charging",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -606,7 +594,7 @@
          },
          {
             "artistName":"Teoria GE",
-            "id":"id1546570736",
+            "id":"1546570736",
             "name":"Teoria GE",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -618,7 +606,7 @@
          },
          {
             "artistName":"Pravis Testebi",
-            "id":"id1605942284",
+            "id":"1605942284",
             "name":"Pravis Testebi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -630,7 +618,7 @@
          },
          {
             "artistName":"Audio Guide Georgia: offline",
-            "id":"id1208569327",
+            "id":"1208569327",
             "name":"Audio Guide Georgia: offline",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -642,7 +630,7 @@
          },
          {
             "artistName":"Guide-U: Georgian Travel App",
-            "id":"id1168636129",
+            "id":"1168636129",
             "name":"Guide-U: Georgian Travel App",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -654,7 +642,7 @@
          },
          {
             "artistName":"Sait: Georgian travel app",
-            "id":"id1641524036",
+            "id":"1641524036",
             "name":"Sait: Georgian travel app",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -666,7 +654,7 @@
          },
          {
             "artistName":"iPlus Georgia",
-            "id":"id1579771123",
+            "id":"1579771123",
             "name":"iPlus Georgia",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -678,7 +666,7 @@
          },
          {
             "artistName":"SABA Reader: Books, Audio",
-            "id":"id596814126",
+            "id":"596814126",
             "name":"SABA Reader: Books, Audio",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -690,7 +678,7 @@
          },
          {
             "artistName":"USA2GEORGIA",
-            "id":"id1461461537",
+            "id":"1461461537",
             "name":"USA2GEORGIA",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -702,7 +690,7 @@
          },
          {
             "artistName":"Locker.ge",
-            "id":"id1441247700",
+            "id":"1441247700",
             "name":"Locker.ge",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -714,7 +702,7 @@
          },
          {
             "artistName":"TBC Insurance",
-            "id":"id1484466064",
+            "id":"1484466064",
             "name":"TBC Insurance",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -726,7 +714,7 @@
          },
          {
             "artistName":"Archi.ge",
-            "id":"id1506595848",
+            "id":"1506595848",
             "name":"Archi.ge",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -738,7 +726,7 @@
          },
          {
             "artistName":"Vefxistyaosani",
-            "id":"id1494639788",
+            "id":"1494639788",
             "name":"Vefxistyaosani",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -750,7 +738,7 @@
          },
          {
             "artistName":"LAGI",
-            "id":"id1488784236",
+            "id":"1488784236",
             "name":"LAGI",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -762,7 +750,7 @@
          },
          {
             "artistName":"Chamoxrchobana",
-            "id":"id1584854848",
+            "id":"1584854848",
             "name":"Chamoxrchobana",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -774,7 +762,7 @@
          },
          {
             "artistName":"Ipove Sityva",
-            "id":"id1644588606",
+            "id":"1644588606",
             "name":"Ipove Sityva",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -786,7 +774,7 @@
          },
          {
             "artistName":"Photo Axlodan",
-            "id":"id1584985074",
+            "id":"1584985074",
             "name":"Photo Axlodan",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -798,7 +786,7 @@
          },
          {
             "artistName":"Martivi Logika NEW",
-            "id":"id1400420097",
+            "id":"1400420097",
             "name":"Martivi Logika NEW",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -810,7 +798,7 @@
          },
          {
             "artistName":"Guess Georgian Word",
-            "id":"id1608790468",
+            "id":"1608790468",
             "name":"Guess Georgian Word",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -822,7 +810,7 @@
          },
          {
             "artistName":"gamoitsani gamosakhuleba",
-            "id":"id1252607748",
+            "id":"1252607748",
             "name":"gamoitsani gamosakhuleba",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -834,7 +822,7 @@
          },
          {
             "artistName":"Find Words Georgian",
-            "id":"id1665898555",
+            "id":"1665898555",
             "name":"Find Words Georgian",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -846,7 +834,7 @@
          },
          {
             "artistName":"gamoitsani sitqva",
-            "id":"id1319289874",
+            "id":"1319289874",
             "name":"gamoitsani sitqva",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -858,7 +846,7 @@
          },
          {
             "artistName":"Davita",
-            "id":"id1538733443",
+            "id":"1538733443",
             "name":"Davita",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -870,7 +858,7 @@
          },
          {
             "artistName":"Tamashebi",
-            "id":"id1400420097",
+            "id":"1400420097",
             "name":"Tamashebi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -882,7 +870,7 @@
          },
          {
             "artistName":"Joker • JokerStars",
-            "id":"id1339226209",
+            "id":"1339226209",
             "name":"Joker • JokerStars",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -894,7 +882,7 @@
          },
          {
             "artistName":"BuraStars",
-            "id":"id1626038937",
+            "id":"1626038937",
             "name":"BuraStars",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -906,7 +894,7 @@
          },
          {
             "artistName":"Joker ^ Jokerstars",
-            "id":"id1636308497",
+            "id":"1636308497",
             "name":"Joker ^ Jokerstars",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -918,7 +906,7 @@
          },
          {
             "artistName":"zghapAR",
-            "id":"id1575718611",
+            "id":"1575718611",
             "name":"zghapAR",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -930,7 +918,7 @@
          },
          {
             "artistName":"Tedo_And_Nutsa",
-            "id":"id1670051678",
+            "id":"1670051678",
             "name":"Tedo_And_Nutsa",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -942,7 +930,7 @@
          },
          {
             "artistName":"Multfilmebi",
-            "id":"id1545834091",
+            "id":"1545834091",
             "name":"Multfilmebi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -954,7 +942,7 @@
          },
          {
             "artistName":"Parliament RoP",
-            "id":"id1470664176",
+            "id":"1470664176",
             "name":"Parliament RoP",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -966,7 +954,7 @@
          },
          {
             "artistName":"Georgian Megrelian Dictionery",
-            "id":"id1565204617",
+            "id":"1565204617",
             "name":"Georgian Megrelian Dictionery",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -978,7 +966,7 @@
          },
          {
             "artistName":"Smart Georgian Dictionary",
-            "id":"id1606873808",
+            "id":"1606873808",
             "name":"Smart Georgian Dictionary",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -990,7 +978,7 @@
          },
          {
             "artistName":"Learn Georgian Alphabet!",
-            "id":"id1545834091",
+            "id":"1545834091",
             "name":"Learn Georgian Alphabet!",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1002,7 +990,7 @@
          },
          {
             "artistName":"English to Georgian Dictionary",
-            "id":"id1496508558",
+            "id":"1496508558",
             "name":"English to Georgian Dictionary",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1014,7 +1002,7 @@
          },
          {
             "artistName":"English To Georgian Trans",
-            "id":"id1603049572",
+            "id":"1603049572",
             "name":"English To Georgian Trans",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1026,7 +1014,7 @@
          },
          {
             "artistName":"Learn Easy Georgian 12 Letters",
-            "id":"id1638609654",
+            "id":"1638609654",
             "name":"Learn Easy Georgian 12 Letters",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1038,7 +1026,7 @@
          },
          {
             "artistName":"Georgian Flashcards with Pictures Lite",
-            "id":"id894346048",
+            "id":"894346048",
             "name":"Georgian Flashcards with Pictures Lite",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1050,7 +1038,7 @@
          },
          {
             "artistName":"Bookshop.ge",
-            "id":"id1599438594",
+            "id":"1599438594",
             "name":"Bookshop.ge",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1062,7 +1050,7 @@
          },
          {
             "artistName":"Argus LMS",
-            "id":"id1559920018",
+            "id":"1559920018",
             "name":"Argus LMS",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1074,7 +1062,7 @@
          },
          {
             "artistName":"Starti",
-            "id":"id1541875226",
+            "id":"1541875226",
             "name":"Starti",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1086,7 +1074,7 @@
          },
          {
             "artistName":"Any Book - Georgian Books",
-            "id":"id6446055319",
+            "id":"6446055319",
             "name":"Any Book - Georgian Books",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1098,7 +1086,7 @@
          },
          {
             "artistName":"Viqtorina",
-            "id":"id1621952226",
+            "id":"1621952226",
             "name":"Viqtorina",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1110,7 +1098,7 @@
          },
          {
             "artistName":"Viqtorina",
-            "id":"id1545834091",
+            "id":"1545834091",
             "name":"Multfilmebi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1122,7 +1110,7 @@
          },
          {
             "artistName":"Truth or Dare - Beer Game",
-            "id":"id1501353985",
+            "id":"1501353985",
             "name":"Truth or Dare - Beer Game",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1134,7 +1122,7 @@
          },
          {
             "artistName":"Tbilisi Transport",
-            "id":"id1437141092",
+            "id":"1437141092",
             "name":"Tbilisi Transport",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1146,7 +1134,7 @@
          },
          {
             "artistName":"Matsne",
-            "id":"id954200337",
+            "id":"954200337",
             "name":"Matsne",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1158,7 +1146,7 @@
          },
          {
             "artistName":"Sufris Tamada",
-            "id":"id1559890855",
+            "id":"1559890855",
             "name":"Sufris Tamada",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1170,7 +1158,7 @@
          },
          {
             "artistName":"GeoTales - Zgaprebi",
-            "id":"id1589203516",
+            "id":"1589203516",
             "name":"GeoTales - Zgaprebi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1182,7 +1170,7 @@
          },
          {
             "artistName":"Biliki - Self-Guided Tours",
-            "id":"id1495793884",
+            "id":"1495793884",
             "name":"Biliki - Self-Guided Tours",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1194,7 +1182,7 @@
          },
          {
             "artistName":"TravelGIS",
-            "id":"id882211585",
+            "id":"882211585",
             "name":"TravelGIS",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1206,7 +1194,7 @@
          },
          {
             "artistName":"Genatsvale AR",
-            "id":"id1446715535",
+            "id":"1446715535",
             "name":"Genatsvale AR",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1218,7 +1206,7 @@
          },
          {
             "artistName":"Galoba",
-            "id":"id1481196841",
+            "id":"1481196841",
             "name":"Galoba",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1230,7 +1218,7 @@
          },
          {
             "artistName":"Mkhiaruli Matematika",
-            "id":"id1644172620",
+            "id":"1644172620",
             "name":"Mkhiaruli Matematika",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1242,7 +1230,7 @@
          },
          {
             "artistName":"Jirafi Alfredi",
-            "id":"id1598074227",
+            "id":"1598074227",
             "name":"Jirafi Alfredi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1254,7 +1242,7 @@
          },
          {
             "artistName":"Momgerali Bakaki",
-            "id":"id1594147727",
+            "id":"1594147727",
             "name":"Momgerali Bakaki",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1266,7 +1254,7 @@
          },
          {
             "artistName":"Sofeli Samsokota",
-            "id":"id1598071481",
+            "id":"1598071481",
             "name":"Sofeli Samsokota",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1278,7 +1266,7 @@
          },
          {
             "artistName":"Kurka",
-            "id":"id1594140156",
+            "id":"1594140156",
             "name":"Kurka",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1290,7 +1278,7 @@
          },
          {
             "artistName":"Dzveleburi Nivtebis Muzeumi",
-            "id":"id1594175174",
+            "id":"1594175174",
             "name":"Dzveleburi Nivtebis Muzeumi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1302,7 +1290,7 @@
          },
          {
             "artistName":"Fiso Fio-Fio",
-            "id":"id1594153202",
+            "id":"1594153202",
             "name":"Fiso Fio-Fio",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1314,7 +1302,7 @@
          },
          {
             "artistName":"Tetri Datvi Da Mura Datvi",
-            "id":"id1594172692",
+            "id":"1594172692",
             "name":"Tetri Datvi Da Mura Datvi",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1326,7 +1314,7 @@
          },
          {
             "artistName":"Tskhvolebis Tserileb",
-            "id":"id1594144280",
+            "id":"1594144280",
             "name":"Tskhvolebis Tserileb",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1338,7 +1326,7 @@
          },
          {
             "artistName":"Airchie Gvirgvini",
-            "id":"id1594158584",
+            "id":"1594158584",
             "name":"Airchie Gvirgvini",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1350,7 +1338,7 @@
          },
          {
             "artistName":"Dabzaruli Guli",
-            "id":"id1594168339",
+            "id":"1594168339",
             "name":"Dabzaruli Guli",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1362,7 +1350,7 @@
          },
          {
             "artistName":"Magaziobana",
-            "id":"id1594165550",
+            "id":"1594165550",
             "name":"Magaziobana",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1374,7 +1362,7 @@
          },
          {
             "artistName":"Zgapari Tusize Da Kidev tusize",
-            "id":"id1594170754",
+            "id":"1594170754",
             "name":"Zgapari Tusize Da Kidev tusize",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1386,7 +1374,7 @@
          },
          {
             "artistName":"Anbani",
-            "id":"id1506972449",
+            "id":"1506972449",
             "name":"Anbani",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1398,7 +1386,7 @@
          },
          {
             "artistName":"Sitkvobana",
-            "id":"id1506972833",
+            "id":"1506972833",
             "name":"Sitkvobana",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1410,7 +1398,7 @@
          },
          {
             "artistName":"Debiloba",
-            "id":"id1510134550",
+            "id":"1510134550",
             "name":"Debiloba",
             "releaseDate":"2020-04-10",
             "kind":"apps",
@@ -1422,7 +1410,7 @@
          },
          {
             "artistName":"Martivi Logika",
-            "id":"id1378461306",
+            "id":"1378461306",
             "name":"Martivi Logika",
             "releaseDate":"2020-04-10",
             "kind":"apps",
