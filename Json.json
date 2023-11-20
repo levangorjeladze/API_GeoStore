@@ -17,17 +17,17 @@
       "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
       "results":[
          {
-   "artistName":"JSC Wissol Petroleum",
-   "id":"1634800977",
-   "name":"Wissol",
-   "releaseDate":"2023-03-23",
-   "kind":"apps",
-   "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/8a/f8/d48af897-680d-4b10-b352-12d151b8efb5/AppIcon-prod-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-   "genres":[
+            "artistName":"Wissol",
+            "id":"1634800977",
+            "name":"Wissol",
+            "releaseDate":"2023-03-23",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/8a/f8/d48af897-680d-4b10-b352-12d151b8efb5/AppIcon-prod-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+            "genres":[
       
-   ],
-   "url":"https://apps.apple.com/ge/app/wissol/id1634800977"
-},
+               ],
+            "url":"https://apps.apple.com/ge/app/wissol/id1634800977"
+         },
          {
             "artistName":"Bank of Georgia",
             "id":"1159368231",
