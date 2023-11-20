@@ -17,6 +17,18 @@
      "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
      "results":[
          {
+         "artistName":"BOG sCoolApp",
+         "id":"1620383920",
+         "name":"BOG sCoolApp",
+         "releaseDate":"2020-04-10",
+         "kind":"apps",
+         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/70/89/e2708964-743f-7440-0859-895dd65ff95b/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
+         "genres":[
+            
+         ],
+         "url":"https://apps.apple.com/us/app/bog-scoolapp/id1620383920"
+      },
+       {
             "artistName":"Re|Bank",
             "id":"1531465907",
             "name":"Re|Bank",
@@ -126,17 +138,6 @@
             
          ],
          "url":"https://apps.apple.com/us/app/basisbank-mobile/id1065931334"
-      },{
-         "artistName":"BOG sCoolApp",
-         "id":"1620383920",
-         "name":"BOG sCoolApp",
-         "releaseDate":"2020-04-10",
-         "kind":"apps",
-         "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/70/89/e2708964-743f-7440-0859-895dd65ff95b/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/460x0w.webp",
-         "genres":[
-            
-         ],
-         "url":"https://apps.apple.com/us/app/bog-scoolapp/id1620383920"
       },{
          "artistName":"Bank of Georgia Business",
          "id":"1510921373",
