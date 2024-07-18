@@ -17,8 +17,8 @@
       "updated":"Tue, 3 Oct 2023 14:15:18 +0000",
       "results":[
          {
-            "artistName":"FlagQuiz Georgia",
-            "id":"id6505065801",
+            "artistName":"Levan Gorjeladze",
+            "id":"6505065801",
             "name":"FlagQuiz Georgia",
             "releaseDate":"2024-07-15",
             "kind":"apps",
@@ -27,6 +27,18 @@
                
             ],
             "url":"https://apps.apple.com/ge/app/flagquiz-georgia/id6505065801"
+         },
+         {
+            "artistName":"Levan Gorjeladze",
+            "id":"6550920818",
+            "name":"Geo Hydrate",
+            "releaseDate":"2024-07-15",
+            "kind":"apps",
+            "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/f0/cc/67f0cc44-376c-db50-1100-93d6b261657b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres":[
+               
+            ],
+            "url":"https://apps.apple.com/ge/app/geo-hydrate/id6550920818"
          },
          {
             "artistName":"Bank of Georgia",
