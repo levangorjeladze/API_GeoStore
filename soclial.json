@@ -1,20 +1,16 @@
 [
    {
-      "id":"943905271",
-      "name":"Wolt Delivery: Food and more",
-      "tagline":"Restaurants, groceries & shops",
-      "imageUrl":"https://discovery-cdn.wolt.com/content_editor/articles/images/9972055c-2533-11ed-a300-aa38d8412a62_9967ce3f_3429_4a95_ad3c_859d6779b821.jpg"
+      "id":"6505065801",
+      "name":"Geo Hydrate",
+      "tagline":"Manage Daily water drink",
+      "imageUrl":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/f0/cc/67f0cc44-376c-db50-1100-93d6b261657b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "genres"
    },
    {
-      "id":"498477945",
-      "name":"Moovit: All Transit Options",
-      "tagline":"Bus, Train, Subway Live Times",
-      "imageUrl":"https://moovit.com/wp-content/uploads/2020/03/opengraph-homepage.png"
-   },
-   {
-      "id":"951812684",
-      "name":"Glovo: Food Delivery and more",
-      "tagline":"Order Takeaway & Groceries etc",
-      "imageUrl":"https://d-art.ppstatic.pl/kadry/k/r/6e/52/6375f3c1d625b_o_full.jpg"
+      "id":"6550920818",
+      "name":"FlagQuiz Georgia",
+      "tagline":"Guess national flags",
+      "imageUrl":"https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/33/ca/5e33ca05-ff17-306a-435e-5c8c923b70ea/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/460x0w.webp",
+            "genres"
    }
 ]
